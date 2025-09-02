@@ -1,0 +1,1001 @@
+Customer_ID,Name,Age,Gender,Email,Phone,Address,City,State,Country,Zip,Registration_Date,Last_Login,Account_Balance,Subscription_Status,Feedback_Score,Preferred_Language,Device_Type,Referral_Code,Purchase_Count
+CUST4759,John Doe,45,,user445@example.com,9123456780,456 Ave,Los Angeles,NY,USA,10001,,,,Active,3,Spanish,,,3
+CUST8553,,40,Male,user754@example.com,,123 St,Los Angeles,NY,USA,60601,,12/1/2022,,,4,,Mobile,REF123,1
+CUST8441,,,Other,user345@example.com,9876543210,,,NY,US,,1/1/2021,5/5/2023,100,Cancelled,,,Desktop,REF123,2
+CUST1138,,25,Female,user270@example.com,9988776655,,Houston,NY,,60601,1/1/2021,5/5/2023,250.5,,3,,Mobile,REF123,0
+CUST8530,John Doe,40,F,user631@example.com,,123 St,,,US,,,,250.5,,5,English,Tablet,,1
+CUST8995,,,Female,user354@example.com,9876543210,123 St,Houston,NY,,,6/15/2020,12/1/2022,100,,2,Spanish,Mobile,REF123,1
+CUST5791,John Doe,45,M,user946@example.com,9988776655,456 Ave,,IL,US,,6/15/2020,,250.5,Inactive,,Spanish,Mobile,,3
+CUST9375,Sam,35,Other,user581@example.com,9988776655,789 Blvd,Houston,,,90001,11/20/2019,12/1/2022,1000,,1,,Tablet,,0
+CUST6518,Alice,30,,user46@example.com,9988776655,123 St,Los Angeles,,,,11/20/2019,,100,Active,2,,,REF123,0
+,Alice,50,,user329@example.com,9876543210,789 Blvd,,,,10001,1/1/2021,5/5/2023,100,Cancelled,4,Spanish,,REF123,0
+CUST4230,,45,Male,user672@example.com,9876543210,,Los Angeles,NY,USA,90001,11/20/2019,,1000,,5,French,,REF123,1
+CUST6746,Sam,45,M,user340@example.com,9123456780,456 Ave,,CA,USA,10001,6/15/2020,,0,Cancelled,5,,Tablet,REF123,3
+CUST4161,,25,F,user16@example.com,,,Houston,,,,,,,Cancelled,2,,Tablet,,2
+CUST9366,Jane Smith,35,Other,user624@example.com,9876543210,789 Blvd,Los Angeles,IL,US,,1/1/2021,,250.5,Cancelled,1,Spanish,Mobile,,0
+CUST7622,Jane Smith,40,Male,user193@example.com,,789 Blvd,,CA,US,90001,1/1/2021,,1000,,5,,,REF123,0
+CUST4260,Sam,25,F,user679@example.com,,123 St,,NY,US,60601,1/1/2021,,250.5,Active,1,Spanish,Tablet,,2
+CUST1374,,25,Female,user433@example.com,9123456780,123 St,,IL,,,11/20/2019,,0,Cancelled,4,,Desktop,,1
+CUST1283,John Doe,45,M,user627@example.com,9988776655,,New York,,,60601,,,100,Active,1,English,,,
+CUST1000,Alice,30,M,user708@example.com,,789 Blvd,Chicago,IL,,60601,6/15/2020,,0,Cancelled,,,,REF123,0
+CUST6865,Alice,50,,user418@example.com,9876543210,,New York,,,90001,1/1/2021,5/5/2023,100,Inactive,3,French,Desktop,REF123,
+CUST9633,,30,M,user343@example.com,9123456780,,Los Angeles,NY,USA,10001,,12/1/2022,250.5,Cancelled,4,Spanish,Mobile,REF456,
+CUST5364,,40,Male,user6@example.com,9876543210,456 Ave,New York,,US,10001,,12/1/2022,,Active,2,English,,REF456,2
+CUST3220,John Doe,45,Male,,9988776655,456 Ave,Los Angeles,CA,,,,12/1/2022,,Cancelled,5,,,REF456,3
+CUST8009,Sam,25,Other,user153@example.com,,,Los Angeles,,,,1/1/2021,12/1/2022,0,Active,3,French,,REF123,0
+CUST2486,,25,M,user655@example.com,,,,CA,,,1/1/2021,,250.5,Inactive,3,,Desktop,,2
+CUST9928,Jane Smith,50,F,user131@example.com,9876543210,789 Blvd,Chicago,,US,10001,11/20/2019,12/1/2022,,Inactive,1,,Desktop,REF456,0
+CUST5976,John Doe,45,,user808@example.com,9123456780,456 Ave,Houston,NY,,,6/15/2020,5/5/2023,250.5,Active,1,English,,,3
+CUST3545,,30,Other,user940@example.com,9123456780,789 Blvd,New York,IL,,,1/1/2021,12/1/2022,0,Inactive,2,,Tablet,REF456,1
+CUST6344,,,Male,,,456 Ave,Chicago,,USA,,6/15/2020,,250.5,Active,3,,Mobile,,
+CUST6008,Jane Smith,35,Female,user277@example.com,9123456780,123 St,Houston,CA,,90001,,,100,Inactive,,Spanish,Mobile,,
+CUST3675,,40,M,user998@example.com,,,Chicago,,,,,,,,5,,,REF123,0
+CUST1782,,30,Female,user818@example.com,,,Los Angeles,,USA,,6/15/2020,,1000,Inactive,2,English,,,2
+CUST2003,,35,M,user305@example.com,9876543210,,Chicago,CA,,90001,6/15/2020,,250.5,Cancelled,5,French,Mobile,,1
+CUST8018,John Doe,40,F,user762@example.com,,456 Ave,New York,CA,US,,,12/1/2022,0,Cancelled,3,English,Tablet,,2
+CUST6830,,25,M,user744@example.com,9876543210,123 St,New York,IL,,10001,6/15/2020,5/5/2023,100,Active,1,,Desktop,,3
+CUST8543,Sam,30,Female,,9123456780,789 Blvd,,,,10001,11/20/2019,5/5/2023,,Cancelled,3,French,,REF123,3
+CUST3657,Sam,25,Male,,9123456780,,Houston,,,90001,,,100,,2,Spanish,Tablet,,0
+CUST5695,Alice,25,Male,,9876543210,,,,,,,12/1/2022,100,Inactive,3,,,,2
+CUST6508,,40,F,user795@example.com,9123456780,,Chicago,IL,USA,10001,,,,Active,1,,Mobile,REF123,3
+CUST4218,John Doe,30,Female,user405@example.com,9988776655,,Houston,,US,,1/1/2021,12/1/2022,250.5,,3,French,Desktop,,
+CUST1835,Jane Smith,50,Other,,9876543210,,Chicago,IL,,,1/1/2021,12/1/2022,1000,,1,Spanish,Mobile,REF456,1
+,Sam,35,Female,user880@example.com,,123 St,Los Angeles,NY,USA,60601,6/15/2020,5/5/2023,250.5,Active,,,Tablet,REF123,0
+CUST7532,John Doe,30,F,user600@example.com,,123 St,Houston,CA,,60601,1/1/2021,12/1/2022,1000,Inactive,2,Spanish,,REF456,0
+CUST1215,Alice,40,Female,user592@example.com,9123456780,789 Blvd,New York,IL,US,,6/15/2020,,250.5,,,,,,1
+CUST8093,Alice,25,Male,user112@example.com,9123456780,456 Ave,New York,TX,USA,90001,1/1/2021,12/1/2022,100,,1,English,Mobile,,1
+CUST8743,John Doe,25,F,user396@example.com,9988776655,789 Blvd,,IL,,10001,11/20/2019,,250.5,Active,,French,,,
+CUST2946,John Doe,40,M,user627@example.com,9876543210,789 Blvd,,CA,,60601,1/1/2021,5/5/2023,1000,Active,2,French,,REF456,
+CUST8698,Jane Smith,,Other,user196@example.com,9876543210,789 Blvd,New York,IL,USA,60601,,,1000,,1,English,,,0
+CUST6808,,30,F,user399@example.com,9988776655,,New York,IL,USA,,6/15/2020,,1000,Inactive,3,English,Mobile,,3
+,John Doe,30,Female,user528@example.com,9988776655,,Chicago,,,,,,250.5,Active,3,French,,,
+CUST6390,Sam,,F,user59@example.com,,,New York,CA,,,,,100,,3,French,Desktop,,0
+CUST9108,John Doe,50,Female,user919@example.com,9988776655,,Chicago,IL,US,,,,0,Inactive,,,Mobile,REF456,3
+CUST1407,Sam,45,Female,user775@example.com,9876543210,789 Blvd,Houston,,,90001,11/20/2019,5/5/2023,0,Active,4,,Tablet,,2
+CUST6821,Alice,35,M,user403@example.com,,123 St,New York,CA,US,90001,1/1/2021,,,Inactive,3,,Mobile,REF123,0
+CUST1565,,25,Female,,9876543210,789 Blvd,New York,TX,US,60601,1/1/2021,,100,Active,5,English,,,1
+CUST9546,John Doe,25,Female,user499@example.com,9988776655,789 Blvd,Chicago,,US,10001,11/20/2019,,,Active,,,Mobile,REF123,0
+CUST7493,,,M,,,,,TX,USA,10001,,12/1/2022,100,Inactive,2,,Mobile,,
+CUST4223,Jane Smith,30,F,user810@example.com,9988776655,789 Blvd,New York,,USA,90001,6/15/2020,,,Cancelled,1,,Tablet,REF123,
+CUST5054,Jane Smith,,,,9123456780,789 Blvd,Chicago,NY,USA,,11/20/2019,12/1/2022,,Active,2,English,Tablet,,2
+CUST3558,Alice,45,F,user56@example.com,,,New York,CA,US,60601,1/1/2021,,1000,Active,4,French,Tablet,REF123,1
+CUST7288,Sam,25,M,user901@example.com,9988776655,123 St,New York,IL,US,60601,6/15/2020,12/1/2022,0,,5,Spanish,,,0
+,John Doe,40,Male,,9123456780,,Houston,IL,USA,,6/15/2020,,0,,3,English,,,3
+CUST4413,Sam,40,Male,user826@example.com,,,New York,CA,,,6/15/2020,,0,Active,3,Spanish,,,2
+CUST3636,John Doe,35,M,user946@example.com,,,Houston,NY,,90001,,,1000,Active,,French,Tablet,,
+CUST3219,Sam,45,Other,user617@example.com,9123456780,,Houston,CA,,60601,11/20/2019,,,Inactive,2,Spanish,Mobile,REF123,
+CUST2829,John Doe,45,Other,user659@example.com,9988776655,789 Blvd,New York,,USA,60601,,12/1/2022,250.5,Inactive,2,English,Desktop,,
+CUST5271,Jane Smith,35,M,user403@example.com,9123456780,,,,US,,1/1/2021,5/5/2023,100,Active,2,English,Desktop,,1
+CUST6464,,45,Female,,9988776655,,Chicago,IL,,,1/1/2021,,0,Inactive,,,Tablet,,2
+CUST4987,,45,Male,,9876543210,456 Ave,Chicago,TX,US,90001,,5/5/2023,100,Cancelled,5,,Desktop,REF456,0
+CUST7101,Alice,45,Other,user701@example.com,,123 St,Los Angeles,CA,USA,60601,1/1/2021,,1000,Inactive,2,English,,,0
+CUST6360,Alice,40,Female,user614@example.com,9876543210,,,IL,USA,,,12/1/2022,100,,4,Spanish,Tablet,REF456,
+CUST8126,Jane Smith,,M,,,789 Blvd,Chicago,,,,6/15/2020,,1000,,1,Spanish,,,2
+CUST1627,John Doe,25,,user349@example.com,9988776655,,Los Angeles,,US,,,,,Cancelled,2,French,,,
+CUST5614,John Doe,50,Male,user727@example.com,9988776655,456 Ave,New York,IL,US,60601,,12/1/2022,1000,Cancelled,1,,Desktop,REF456,
+CUST7871,Alice,,M,user596@example.com,,456 Ave,Los Angeles,,,90001,6/15/2020,12/1/2022,100,,1,English,Desktop,REF123,2
+CUST2566,Sam,30,Other,user315@example.com,,789 Blvd,,IL,,10001,1/1/2021,,250.5,Inactive,2,English,,REF123,3
+CUST7901,Sam,25,,,9123456780,789 Blvd,,,US,,,5/5/2023,100,,1,French,Desktop,,3
+CUST8715,Sam,25,Male,,,123 St,Los Angeles,TX,USA,10001,11/20/2019,,,,3,English,,,1
+CUST2343,Sam,45,Female,user149@example.com,9123456780,,Houston,,USA,90001,1/1/2021,12/1/2022,,Inactive,1,English,,REF456,
+CUST8447,Jane Smith,30,Other,,9876543210,,Los Angeles,NY,,90001,6/15/2020,12/1/2022,250.5,Active,2,,,,0
+CUST1556,Sam,35,,user680@example.com,9123456780,,,,US,90001,1/1/2021,12/1/2022,0,Inactive,5,Spanish,,,2
+CUST8458,,25,Male,user523@example.com,9876543210,123 St,,TX,US,90001,11/20/2019,5/5/2023,1000,Cancelled,,Spanish,Desktop,REF456,2
+CUST4374,Sam,25,Male,,9876543210,456 Ave,Houston,IL,,60601,6/15/2020,5/5/2023,250.5,Inactive,3,,,,3
+CUST3970,Alice,35,M,user237@example.com,9123456780,,Chicago,NY,USA,60601,11/20/2019,,0,Cancelled,,,,REF456,0
+CUST6631,Alice,30,Female,,9123456780,123 St,Chicago,IL,,90001,,12/1/2022,,Cancelled,4,French,Mobile,,2
+CUST4659,John Doe,,Female,,,456 Ave,Houston,NY,USA,10001,11/20/2019,12/1/2022,,,4,Spanish,,,0
+CUST1100,Alice,25,Other,user818@example.com,,,Houston,,,,6/15/2020,5/5/2023,250.5,,2,French,Mobile,REF456,0
+CUST1641,,35,M,user706@example.com,,123 St,New York,TX,US,10001,1/1/2021,,0,,5,French,,REF123,
+CUST1540,Sam,50,,user763@example.com,,789 Blvd,New York,TX,,,1/1/2021,12/1/2022,,,2,,,REF123,0
+,Alice,45,Other,user232@example.com,,789 Blvd,New York,TX,,,11/20/2019,5/5/2023,100,,2,French,,,0
+CUST9749,Alice,25,Other,user920@example.com,,123 St,Chicago,,,,6/15/2020,12/1/2022,,Inactive,1,,Mobile,,1
+CUST8288,John Doe,30,F,user234@example.com,9876543210,456 Ave,Chicago,NY,USA,,6/15/2020,,250.5,Cancelled,1,,Desktop,,2
+CUST9734,John Doe,45,Female,user902@example.com,9876543210,123 St,New York,,US,10001,11/20/2019,5/5/2023,1000,Active,1,,,,3
+CUST5372,,50,Male,user216@example.com,9876543210,456 Ave,Los Angeles,,USA,90001,1/1/2021,5/5/2023,,Inactive,4,French,Tablet,REF123,3
+CUST9858,John Doe,,F,user892@example.com,,123 St,Los Angeles,TX,,10001,6/15/2020,,250.5,Inactive,3,Spanish,Mobile,,2
+,Jane Smith,45,Male,user785@example.com,,123 St,New York,,USA,90001,1/1/2021,,,,4,French,Tablet,REF456,3
+CUST6910,Alice,,F,user250@example.com,9123456780,,,NY,USA,,,,,,2,Spanish,,,0
+,,25,,user843@example.com,,456 Ave,Houston,,,90001,6/15/2020,5/5/2023,1000,Cancelled,5,Spanish,Mobile,,
+CUST8302,Jane Smith,30,F,user757@example.com,,,Chicago,,US,60601,6/15/2020,,1000,,5,,Mobile,REF456,
+CUST9311,Alice,,,user344@example.com,9123456780,789 Blvd,,IL,US,10001,6/15/2020,12/1/2022,1000,Inactive,4,,Tablet,,3
+CUST9008,Alice,45,Female,user497@example.com,9876543210,789 Blvd,Los Angeles,,USA,,6/15/2020,5/5/2023,,Active,,Spanish,Desktop,REF123,2
+CUST5706,,25,F,user23@example.com,9988776655,,New York,,,,,,1000,,1,,,REF123,
+CUST8801,Jane Smith,40,Male,,9988776655,,Los Angeles,IL,,10001,1/1/2021,,,,5,,,REF123,3
+CUST2273,John Doe,25,M,user64@example.com,,456 Ave,,,,90001,6/15/2020,,0,,4,,Mobile,REF456,2
+CUST4733,John Doe,50,,user808@example.com,,,New York,,US,,11/20/2019,12/1/2022,250.5,,3,English,Mobile,REF456,
+CUST7211,Jane Smith,35,Male,user185@example.com,9876543210,,Houston,NY,US,10001,1/1/2021,,100,,,,,,
+CUST7687,Alice,,Other,user64@example.com,9988776655,123 St,Los Angeles,,US,,,,100,Cancelled,5,,,REF123,2
+CUST7168,Alice,45,Other,,9988776655,789 Blvd,,IL,USA,60601,,,100,,2,French,,,1
+CUST7947,Jane Smith,25,,user873@example.com,,789 Blvd,,,USA,60601,,,0,Inactive,1,French,Mobile,REF456,
+CUST2665,Alice,30,,user658@example.com,9123456780,456 Ave,New York,TX,,60601,11/20/2019,12/1/2022,,Cancelled,1,English,,,
+CUST1867,John Doe,45,Other,user932@example.com,,789 Blvd,,,,60601,1/1/2021,5/5/2023,0,,3,English,,,
+CUST6936,Sam,,F,user228@example.com,,123 St,,CA,US,,6/15/2020,5/5/2023,1000,,5,French,,,
+CUST2544,Jane Smith,,F,user618@example.com,,123 St,,NY,,,,,250.5,,2,,,,2
+CUST6743,Jane Smith,45,,,9988776655,789 Blvd,Houston,IL,USA,,1/1/2021,5/5/2023,0,Cancelled,1,Spanish,,REF456,3
+CUST9623,,35,Other,user592@example.com,,456 Ave,,IL,US,,,,250.5,,2,French,Tablet,,1
+CUST8935,,25,F,user996@example.com,,,New York,TX,,10001,,5/5/2023,0,Cancelled,5,French,Mobile,REF123,2
+CUST1287,Alice,45,,user907@example.com,9988776655,123 St,Chicago,CA,US,,11/20/2019,5/5/2023,250.5,,5,French,,,3
+CUST8163,Jane Smith,25,Female,user625@example.com,9988776655,,New York,,US,,1/1/2021,,0,,3,,,REF123,0
+CUST2970,,35,Other,user599@example.com,9876543210,,Los Angeles,IL,USA,10001,,,100,,3,French,,,
+CUST4018,Sam,25,,user904@example.com,,456 Ave,Houston,,,90001,,,0,Inactive,3,English,Mobile,REF123,0
+CUST6856,Alice,,Other,user727@example.com,9988776655,123 St,Houston,,,,1/1/2021,5/5/2023,250.5,,3,French,,,
+CUST7429,Alice,40,Other,user816@example.com,9123456780,789 Blvd,New York,,,60601,1/1/2021,12/1/2022,,,,English,Desktop,,
+CUST7895,,30,M,,9988776655,123 St,Houston,,,60601,11/20/2019,12/1/2022,0,Cancelled,4,,Tablet,REF123,
+CUST6052,John Doe,40,F,user872@example.com,,123 St,Los Angeles,,,,1/1/2021,5/5/2023,1000,Cancelled,1,Spanish,,REF456,1
+CUST3497,Jane Smith,40,Female,user836@example.com,,789 Blvd,,TX,USA,90001,,12/1/2022,,,3,,Tablet,REF123,
+CUST9927,Alice,40,,user585@example.com,9123456780,789 Blvd,Chicago,,USA,,6/15/2020,12/1/2022,100,,3,,,,1
+CUST5863,Jane Smith,,Male,user284@example.com,9988776655,123 St,New York,TX,,,11/20/2019,,,,4,,,REF123,1
+CUST4988,Alice,30,,user470@example.com,9876543210,,Chicago,IL,USA,10001,11/20/2019,,1000,Active,3,French,,,3
+CUST8813,Sam,30,Male,user826@example.com,,123 St,Chicago,,USA,60601,11/20/2019,,100,Cancelled,1,French,Desktop,REF123,2
+CUST8620,Jane Smith,50,Other,user359@example.com,9988776655,789 Blvd,Houston,IL,,60601,,,,,4,French,Tablet,,3
+CUST5300,John Doe,50,Other,user896@example.com,,456 Ave,Los Angeles,IL,US,,6/15/2020,5/5/2023,1000,,5,French,,,2
+,Jane Smith,,M,,9123456780,,Los Angeles,IL,USA,10001,1/1/2021,5/5/2023,100,,3,,,,0
+CUST9290,Jane Smith,45,Female,user492@example.com,9988776655,,New York,CA,,90001,,12/1/2022,,,,,Mobile,REF123,3
+CUST2742,Alice,25,Female,user613@example.com,9876543210,456 Ave,Chicago,,US,10001,6/15/2020,12/1/2022,250.5,,3,Spanish,Mobile,REF456,0
+CUST9746,,30,F,user273@example.com,9988776655,789 Blvd,,IL,US,,1/1/2021,,100,,1,Spanish,Desktop,REF456,
+CUST3060,,25,M,user113@example.com,9876543210,456 Ave,Chicago,IL,USA,10001,6/15/2020,,250.5,Cancelled,,Spanish,,REF456,2
+CUST4187,John Doe,45,Female,user93@example.com,,,Houston,CA,USA,10001,6/15/2020,12/1/2022,250.5,,,,Mobile,REF123,
+CUST1974,Sam,40,,user638@example.com,9876543210,,,,,,6/15/2020,,100,,5,English,Desktop,REF456,2
+CUST2105,,30,F,user903@example.com,9988776655,,Houston,NY,US,10001,1/1/2021,5/5/2023,100,Inactive,1,French,,REF456,3
+CUST8911,Alice,30,Female,user209@example.com,9123456780,456 Ave,,,US,,1/1/2021,5/5/2023,1000,Active,1,,Desktop,,1
+CUST1849,,,,user606@example.com,,123 St,Houston,IL,,,11/20/2019,,100,,3,,,,1
+CUST9855,John Doe,35,Other,user90@example.com,9988776655,,Houston,CA,,,11/20/2019,12/1/2022,0,Active,,Spanish,,,3
+CUST3541,,30,Male,user460@example.com,9876543210,,New York,CA,USA,,11/20/2019,12/1/2022,0,Cancelled,3,,Tablet,REF123,0
+CUST1895,John Doe,30,Other,user272@example.com,,123 St,Houston,NY,,10001,,12/1/2022,1000,,,,,,1
+CUST2585,,50,F,user185@example.com,9988776655,123 St,Chicago,IL,US,60601,11/20/2019,5/5/2023,1000,Active,,,,,1
+CUST8995,Jane Smith,35,,user287@example.com,,456 Ave,Los Angeles,CA,,10001,1/1/2021,,100,Inactive,2,,,,3
+CUST3178,Jane Smith,,Female,user253@example.com,,,Los Angeles,,US,10001,,,100,Active,3,Spanish,Mobile,REF123,
+CUST5862,,35,Male,user21@example.com,9988776655,456 Ave,New York,TX,US,,,,1000,Inactive,5,,Desktop,REF456,0
+CUST8495,Sam,45,M,user731@example.com,9988776655,,Houston,CA,US,90001,1/1/2021,,250.5,Inactive,3,,Mobile,,2
+CUST5515,Alice,50,F,user31@example.com,,123 St,Chicago,,,,11/20/2019,,1000,Active,3,French,Desktop,,0
+CUST5828,Alice,35,M,user265@example.com,9876543210,789 Blvd,Los Angeles,NY,,90001,1/1/2021,5/5/2023,1000,Inactive,4,,Desktop,,2
+CUST1351,Jane Smith,35,Female,user859@example.com,,789 Blvd,Los Angeles,CA,USA,10001,11/20/2019,,1000,Inactive,5,Spanish,Mobile,,0
+CUST9699,John Doe,50,F,user108@example.com,9123456780,,Chicago,IL,,,1/1/2021,5/5/2023,,,1,,Mobile,REF123,
+CUST4787,John Doe,40,Male,user126@example.com,9988776655,,Houston,,US,,,,1000,Cancelled,1,,,REF123,2
+CUST6729,,40,,user543@example.com,,789 Blvd,New York,NY,US,,6/15/2020,,1000,Inactive,2,Spanish,Mobile,,2
+CUST1925,Jane Smith,30,F,user584@example.com,9988776655,789 Blvd,Houston,NY,,,11/20/2019,,100,Active,4,Spanish,Desktop,,
+CUST4524,John Doe,35,M,user281@example.com,9988776655,,New York,,USA,,6/15/2020,,250.5,Inactive,3,Spanish,Desktop,REF123,
+CUST8951,Sam,40,Other,user312@example.com,,789 Blvd,New York,,,90001,11/20/2019,5/5/2023,0,,4,Spanish,Mobile,,0
+CUST7325,John Doe,30,Other,user784@example.com,,789 Blvd,,,US,90001,,12/1/2022,100,Cancelled,5,French,Mobile,,
+CUST8076,John Doe,30,Female,user519@example.com,9988776655,,Los Angeles,CA,US,,1/1/2021,,0,Active,3,English,Tablet,,
+CUST1090,,35,Female,user63@example.com,,123 St,,TX,,,6/15/2020,5/5/2023,,,1,French,Mobile,REF123,2
+CUST8528,,30,Male,user222@example.com,,456 Ave,New York,NY,,60601,1/1/2021,5/5/2023,,,2,,Desktop,,3
+CUST3738,,50,Other,,9123456780,789 Blvd,Houston,,US,60601,,5/5/2023,100,Inactive,4,English,,,2
+CUST5220,Sam,45,Female,,9988776655,789 Blvd,Los Angeles,IL,,10001,11/20/2019,5/5/2023,100,Active,3,Spanish,,,1
+CUST2386,John Doe,30,Male,user762@example.com,9876543210,,Houston,CA,US,,11/20/2019,12/1/2022,100,Cancelled,,French,Mobile,,
+,,45,M,user809@example.com,9876543210,,,TX,,,6/15/2020,5/5/2023,250.5,Active,5,French,Tablet,REF123,
+CUST7173,,,Other,,9123456780,123 St,Houston,IL,,,6/15/2020,12/1/2022,100,Inactive,4,English,Desktop,,2
+CUST5782,Sam,35,F,user614@example.com,9123456780,,New York,,,,,,250.5,Cancelled,4,,,,0
+CUST6300,,45,Female,user415@example.com,,123 St,Chicago,,USA,60601,11/20/2019,5/5/2023,250.5,Inactive,5,French,Tablet,,3
+,,40,M,user363@example.com,,123 St,Los Angeles,,,10001,6/15/2020,12/1/2022,,Cancelled,4,,,REF123,
+CUST5808,,45,F,,9876543210,123 St,Chicago,IL,US,60601,11/20/2019,5/5/2023,0,,5,English,Tablet,REF123,
+CUST7327,,40,F,user42@example.com,9988776655,789 Blvd,Los Angeles,,,,6/15/2020,,1000,Inactive,,,,,
+CUST6987,Alice,35,F,user80@example.com,,789 Blvd,Los Angeles,TX,US,,11/20/2019,5/5/2023,100,,3,English,Desktop,REF123,
+CUST7104,Alice,30,Male,user943@example.com,9123456780,789 Blvd,Chicago,CA,USA,,6/15/2020,,250.5,,2,,,REF456,1
+CUST4206,,,Other,user734@example.com,9123456780,789 Blvd,Los Angeles,NY,,60601,6/15/2020,,250.5,Inactive,,,Tablet,,1
+CUST6755,,30,F,user299@example.com,9876543210,,,,,90001,1/1/2021,,,Cancelled,5,,Desktop,REF123,1
+CUST2297,John Doe,30,Male,user94@example.com,9876543210,,New York,,,10001,11/20/2019,,100,Cancelled,4,,,,2
+,,40,M,,,456 Ave,,,,10001,1/1/2021,12/1/2022,0,,5,,,REF456,
+,Alice,25,F,user268@example.com,9123456780,789 Blvd,,TX,US,90001,,,,Inactive,3,French,Tablet,REF123,0
+CUST8492,John Doe,30,Female,user927@example.com,9876543210,,New York,NY,,90001,6/15/2020,,0,Active,4,English,Desktop,REF456,2
+CUST6361,Jane Smith,35,M,,9123456780,123 St,Houston,TX,,90001,6/15/2020,,,,5,French,,REF456,
+,John Doe,25,F,user343@example.com,,456 Ave,,,,60601,1/1/2021,,0,Active,5,,Desktop,REF456,
+CUST3046,Jane Smith,45,,user633@example.com,9988776655,,New York,,USA,,,12/1/2022,,Active,3,Spanish,Mobile,REF123,1
+CUST8992,Jane Smith,50,F,,,,Houston,,USA,,1/1/2021,,1000,Active,4,Spanish,Tablet,,2
+CUST6585,Sam,50,Female,user23@example.com,9123456780,456 Ave,,TX,USA,10001,6/15/2020,5/5/2023,100,Active,1,,,REF456,3
+CUST1422,John Doe,50,Female,user309@example.com,9876543210,123 St,Houston,TX,,,1/1/2021,,0,Cancelled,3,,,REF456,0
+CUST4345,Jane Smith,45,Male,,9123456780,,,IL,USA,60601,1/1/2021,12/1/2022,,Inactive,,,Mobile,REF123,1
+CUST5677,,50,Female,user197@example.com,,789 Blvd,Los Angeles,CA,,90001,6/15/2020,,,Cancelled,,English,Tablet,REF123,
+CUST7846,Alice,25,M,user212@example.com,9876543210,,Los Angeles,NY,,,11/20/2019,12/1/2022,,,1,,Desktop,REF456,
+CUST3670,Sam,30,F,user64@example.com,9123456780,,Los Angeles,,USA,10001,1/1/2021,,1000,Inactive,5,,,REF456,
+CUST2344,Sam,45,Female,user578@example.com,9123456780,,Chicago,CA,USA,90001,11/20/2019,12/1/2022,250.5,Cancelled,2,English,Mobile,,
+CUST7040,Sam,25,M,user285@example.com,9988776655,123 St,Houston,,US,90001,,12/1/2022,,Active,5,Spanish,Desktop,REF456,0
+CUST3328,Jane Smith,45,Other,user711@example.com,,789 Blvd,Los Angeles,NY,US,60601,1/1/2021,,,Cancelled,4,Spanish,Mobile,REF456,
+CUST4203,Alice,35,Male,user840@example.com,,789 Blvd,Houston,,US,90001,11/20/2019,5/5/2023,250.5,Inactive,5,,,REF123,
+CUST1804,Alice,30,Male,user915@example.com,9123456780,789 Blvd,Chicago,CA,US,60601,11/20/2019,5/5/2023,100,,3,,,,
+CUST4348,Sam,45,F,user308@example.com,9123456780,,New York,CA,USA,10001,11/20/2019,,0,Active,3,,Desktop,,
+CUST6285,John Doe,,,,9988776655,456 Ave,,CA,US,,6/15/2020,12/1/2022,,Inactive,2,,,,1
+CUST2630,,25,F,user912@example.com,,789 Blvd,New York,CA,,60601,1/1/2021,5/5/2023,0,,5,,,REF456,1
+CUST8826,,35,Other,user346@example.com,9988776655,123 St,,TX,,90001,1/1/2021,,,Cancelled,1,French,Desktop,REF456,1
+CUST6478,Alice,40,,,9876543210,789 Blvd,New York,NY,US,,1/1/2021,12/1/2022,250.5,Inactive,5,English,,,
+CUST3136,John Doe,35,Female,,9123456780,456 Ave,,NY,US,,,,100,Inactive,2,English,,REF456,
+CUST4085,,50,Other,user603@example.com,,,Los Angeles,IL,,90001,11/20/2019,12/1/2022,0,Cancelled,1,English,Mobile,,1
+CUST5806,,45,F,,,,,IL,,60601,1/1/2021,,0,Active,3,French,Tablet,,1
+CUST6020,,30,Other,user3@example.com,9988776655,,Los Angeles,CA,,,6/15/2020,,1000,,,French,Tablet,,2
+CUST5806,Jane Smith,50,Other,user415@example.com,9988776655,789 Blvd,Chicago,,US,,,5/5/2023,0,,2,French,,REF123,
+CUST1125,Jane Smith,25,Other,user611@example.com,9876543210,,Los Angeles,IL,,10001,,5/5/2023,0,,3,English,,,
+CUST1369,Alice,40,M,user219@example.com,,456 Ave,New York,CA,USA,,11/20/2019,12/1/2022,0,Active,1,Spanish,,REF456,2
+CUST4506,Jane Smith,45,Female,user953@example.com,9876543210,,,,,10001,6/15/2020,,250.5,Active,4,English,Mobile,,
+,John Doe,45,Other,user770@example.com,9988776655,,Chicago,,USA,60601,,,,Active,5,Spanish,Mobile,,
+CUST3248,Alice,,M,user545@example.com,,789 Blvd,,CA,USA,,11/20/2019,,,,,,Mobile,REF456,1
+CUST8270,John Doe,25,Male,user193@example.com,9123456780,,,,US,60601,11/20/2019,,1000,,1,French,Desktop,,
+CUST3037,,45,M,user710@example.com,,789 Blvd,Houston,TX,US,,1/1/2021,5/5/2023,100,,2,English,Tablet,REF123,2
+CUST4091,Sam,35,Other,user840@example.com,9876543210,789 Blvd,Chicago,TX,,60601,,12/1/2022,0,,,,Desktop,REF123,0
+CUST5796,John Doe,50,,user525@example.com,,456 Ave,Houston,TX,,60601,,5/5/2023,,Active,3,English,,,0
+CUST8632,Jane Smith,45,Other,user954@example.com,,456 Ave,New York,NY,US,,,,100,Active,4,,Desktop,REF456,0
+CUST6512,Alice,40,F,user465@example.com,9988776655,,Houston,CA,,,6/15/2020,12/1/2022,0,Cancelled,,,,,2
+CUST1848,Alice,40,F,user887@example.com,9876543210,123 St,Houston,NY,US,60601,6/15/2020,12/1/2022,1000,Cancelled,4,Spanish,,,
+CUST3684,Jane Smith,,Male,,,456 Ave,Chicago,NY,,60601,1/1/2021,,,,5,,,REF123,
+CUST9953,Jane Smith,45,M,user784@example.com,9876543210,,,,USA,60601,6/15/2020,12/1/2022,1000,Cancelled,3,,,REF456,0
+CUST2474,Sam,25,Male,user578@example.com,9123456780,,Los Angeles,TX,US,,11/20/2019,5/5/2023,1000,Cancelled,3,,Desktop,REF123,
+CUST8740,Alice,40,,user455@example.com,,,,CA,,10001,6/15/2020,,,,3,,,,
+,John Doe,,Other,user816@example.com,9988776655,,Houston,,,90001,11/20/2019,12/1/2022,0,Inactive,1,,Desktop,REF123,
+CUST4289,Alice,,F,user112@example.com,,123 St,,NY,US,10001,1/1/2021,,,Inactive,3,English,Mobile,REF456,3
+CUST6799,,35,Female,,,,Chicago,,,90001,11/20/2019,,250.5,Inactive,2,Spanish,Mobile,REF123,2
+CUST2943,Jane Smith,,M,user130@example.com,9988776655,,Houston,TX,US,60601,6/15/2020,5/5/2023,100,,3,,Mobile,REF456,
+CUST2321,Sam,35,Other,user917@example.com,,,Chicago,TX,US,60601,6/15/2020,5/5/2023,250.5,Cancelled,5,Spanish,Desktop,REF456,1
+CUST2979,Alice,25,M,user501@example.com,9988776655,,Los Angeles,NY,,60601,,12/1/2022,,Cancelled,3,English,,,
+CUST1413,,35,Male,user88@example.com,,123 St,Los Angeles,,,10001,1/1/2021,,1000,,3,Spanish,Tablet,,0
+,John Doe,25,Female,user826@example.com,,456 Ave,,TX,US,90001,11/20/2019,,250.5,Cancelled,,,Mobile,,1
+,,35,Female,user390@example.com,9876543210,789 Blvd,Houston,TX,,,,,,,4,,,REF123,
+CUST7652,Alice,25,Other,,9876543210,,Los Angeles,CA,US,,,,1000,Cancelled,4,Spanish,,,0
+CUST4239,Jane Smith,,F,user256@example.com,9123456780,,Chicago,,USA,,6/15/2020,,1000,Cancelled,5,,Tablet,,
+CUST4357,,35,M,user937@example.com,9876543210,,,,,60601,1/1/2021,12/1/2022,,,2,,Tablet,,2
+CUST9059,Alice,30,Other,user789@example.com,,,New York,CA,,,6/15/2020,5/5/2023,0,,3,,,REF456,1
+CUST2568,Jane Smith,30,Other,user766@example.com,9988776655,789 Blvd,Houston,,US,60601,1/1/2021,12/1/2022,100,Active,4,French,,REF456,
+CUST2362,Sam,40,F,user802@example.com,9988776655,789 Blvd,,CA,USA,,6/15/2020,,100,Active,2,,,,
+CUST1944,Alice,40,F,,9988776655,123 St,Los Angeles,,USA,10001,1/1/2021,,0,Active,3,Spanish,,REF456,0
+CUST1118,Jane Smith,25,F,user855@example.com,9988776655,456 Ave,Los Angeles,TX,USA,90001,11/20/2019,,,Cancelled,1,,,,1
+CUST7080,Alice,45,Other,user241@example.com,9123456780,456 Ave,Los Angeles,,,10001,6/15/2020,,100,Inactive,1,,,REF456,2
+CUST8943,Jane Smith,40,Other,user899@example.com,9988776655,,Chicago,,USA,10001,11/20/2019,,0,Cancelled,4,,,,0
+CUST5722,Alice,35,,user554@example.com,,,,CA,,,11/20/2019,,0,,3,French,,,2
+CUST2120,Sam,40,Other,user1000@example.com,9988776655,789 Blvd,Los Angeles,NY,USA,60601,6/15/2020,,,Inactive,2,,Tablet,,
+CUST3596,,25,,user606@example.com,9123456780,456 Ave,Los Angeles,TX,US,,6/15/2020,,250.5,,,English,,,
+CUST1413,Alice,45,M,user877@example.com,,123 St,Los Angeles,CA,,,,12/1/2022,100,,,French,,REF456,3
+,John Doe,25,,user958@example.com,,123 St,Los Angeles,IL,US,,11/20/2019,,,,2,,,,2
+CUST4929,Sam,25,Other,user125@example.com,9123456780,789 Blvd,New York,TX,,10001,1/1/2021,,0,Active,,French,,REF456,1
+CUST6152,John Doe,,Female,user105@example.com,,456 Ave,Chicago,NY,,10001,,,100,Cancelled,4,,Desktop,,3
+,Sam,30,M,user619@example.com,,789 Blvd,,IL,US,,11/20/2019,,1000,Cancelled,4,,Mobile,,
+CUST1311,John Doe,40,M,user480@example.com,,456 Ave,New York,,,,1/1/2021,5/5/2023,1000,Inactive,,French,Desktop,REF123,
+CUST3965,John Doe,45,M,user683@example.com,,,Houston,CA,US,,1/1/2021,,0,,2,,Desktop,,
+CUST7153,Sam,45,Female,user168@example.com,,456 Ave,Houston,NY,USA,10001,11/20/2019,12/1/2022,100,,,,,REF456,
+CUST8615,Sam,35,Female,user859@example.com,,,Chicago,,USA,,1/1/2021,5/5/2023,,Inactive,2,,Desktop,,1
+CUST9828,Alice,35,,user876@example.com,9876543210,123 St,Chicago,,USA,10001,6/15/2020,,,,,Spanish,,,
+CUST2674,Sam,35,F,user81@example.com,,123 St,Houston,IL,US,10001,11/20/2019,,1000,,1,,Tablet,REF123,0
+CUST5869,Alice,45,Other,user320@example.com,9123456780,123 St,,NY,,,1/1/2021,12/1/2022,250.5,,1,French,Desktop,,
+CUST9973,John Doe,25,Female,user119@example.com,9123456780,789 Blvd,,,USA,90001,6/15/2020,,0,,2,,,,
+CUST7048,Alice,40,Other,user376@example.com,9876543210,,Los Angeles,CA,USA,,1/1/2021,,250.5,Active,5,English,Mobile,,1
+CUST7450,Jane Smith,45,Male,,9876543210,,Chicago,,US,,1/1/2021,12/1/2022,250.5,,2,English,,,2
+CUST8724,John Doe,35,Other,user833@example.com,9123456780,,Houston,,USA,90001,6/15/2020,5/5/2023,250.5,,1,,,REF456,3
+CUST3795,Jane Smith,45,F,user559@example.com,9988776655,,Houston,TX,USA,,1/1/2021,,0,Inactive,5,,Mobile,REF456,2
+CUST4606,Jane Smith,50,,user256@example.com,,,New York,IL,,10001,1/1/2021,,100,Active,4,,Mobile,,
+CUST5430,Alice,45,,user933@example.com,,789 Blvd,Houston,IL,,60601,11/20/2019,5/5/2023,100,Cancelled,3,Spanish,Desktop,,0
+CUST7333,,30,,user737@example.com,,,Houston,CA,,10001,11/20/2019,5/5/2023,,Inactive,3,Spanish,Tablet,REF123,
+CUST8883,Sam,50,Male,,9988776655,,Houston,NY,,,11/20/2019,12/1/2022,250.5,,4,Spanish,,,3
+CUST1122,Jane Smith,,M,user296@example.com,,,Los Angeles,TX,USA,10001,1/1/2021,,100,,5,Spanish,Tablet,REF123,1
+CUST9469,Alice,50,Male,user643@example.com,9988776655,789 Blvd,Chicago,CA,US,60601,6/15/2020,,100,,3,French,Desktop,,
+CUST9789,John Doe,,M,user421@example.com,9988776655,789 Blvd,Los Angeles,IL,,,,5/5/2023,0,Cancelled,4,English,Desktop,REF456,
+CUST2136,Sam,40,Male,user990@example.com,,789 Blvd,,,,90001,6/15/2020,12/1/2022,250.5,Inactive,3,,Mobile,REF123,2
+CUST4896,John Doe,30,,user2@example.com,9988776655,123 St,Houston,TX,USA,10001,,12/1/2022,100,Active,5,,Tablet,,
+CUST5861,Alice,40,F,user871@example.com,,789 Blvd,,,USA,,6/15/2020,,,Cancelled,,English,Mobile,,2
+CUST8119,Jane Smith,35,Female,user48@example.com,9123456780,456 Ave,Houston,,US,10001,,,100,Cancelled,5,English,Desktop,REF123,3
+CUST9041,,35,F,user637@example.com,9123456780,456 Ave,Los Angeles,CA,USA,,,,0,Active,5,Spanish,Mobile,REF123,2
+CUST9284,John Doe,25,,,9876543210,123 St,Chicago,IL,USA,,,5/5/2023,250.5,,5,French,Desktop,REF456,2
+CUST3808,Alice,25,Female,user551@example.com,9876543210,,New York,,,10001,6/15/2020,5/5/2023,0,Active,5,,Mobile,REF123,
+CUST6246,Jane Smith,25,Female,user164@example.com,,,Houston,,,60601,6/15/2020,,100,Active,,,Mobile,,3
+CUST8216,Jane Smith,,Other,user613@example.com,9876543210,123 St,,IL,,,11/20/2019,12/1/2022,,,1,,Tablet,,1
+CUST2971,John Doe,35,,user691@example.com,9876543210,,Los Angeles,IL,USA,,11/20/2019,,1000,,1,Spanish,Mobile,,
+CUST5354,Alice,35,Male,user430@example.com,,,New York,CA,USA,,1/1/2021,12/1/2022,0,Inactive,4,French,,,
+CUST7673,Jane Smith,30,F,user536@example.com,9876543210,123 St,New York,TX,,,1/1/2021,5/5/2023,250.5,Inactive,,French,Tablet,REF456,0
+CUST7205,Alice,,Male,user975@example.com,9988776655,123 St,Chicago,TX,,90001,,,1000,Inactive,5,,Tablet,REF456,1
+CUST2347,John Doe,40,Female,,9988776655,,Chicago,TX,US,,6/15/2020,12/1/2022,100,,1,French,Tablet,REF456,
+CUST3633,Alice,35,M,user669@example.com,9988776655,,Houston,NY,US,60601,6/15/2020,,250.5,Active,2,,,REF123,0
+CUST4144,John Doe,35,Male,user406@example.com,,789 Blvd,Los Angeles,,US,10001,11/20/2019,5/5/2023,0,,5,French,Mobile,REF123,2
+CUST7857,Sam,45,Other,,,789 Blvd,Los Angeles,,US,,,,250.5,,1,English,Mobile,,3
+CUST5590,John Doe,25,Male,,,123 St,New York,IL,USA,60601,6/15/2020,,1000,Inactive,4,Spanish,Desktop,REF123,0
+CUST7701,Sam,45,Female,user806@example.com,,456 Ave,Los Angeles,CA,,,6/15/2020,,0,Cancelled,,,Mobile,REF123,0
+CUST2570,John Doe,30,Other,user958@example.com,,,,NY,,60601,,,0,,3,,,REF456,2
+CUST9244,,40,,user425@example.com,9876543210,456 Ave,Los Angeles,TX,USA,,6/15/2020,,1000,,,French,Tablet,,1
+CUST6854,Alice,40,Female,,,,,NY,,90001,,5/5/2023,1000,,4,,Mobile,,0
+,,50,Female,,,123 St,Houston,,,,,,0,Cancelled,2,,,,2
+CUST7316,John Doe,,Female,user721@example.com,9876543210,,Chicago,,,90001,11/20/2019,12/1/2022,1000,,2,Spanish,Desktop,,3
+CUST3680,Jane Smith,45,Female,user491@example.com,9876543210,,,NY,,,1/1/2021,12/1/2022,250.5,Inactive,2,,Desktop,REF456,
+CUST4670,Jane Smith,50,,user153@example.com,9876543210,123 St,,CA,,60601,1/1/2021,12/1/2022,100,Cancelled,1,,Desktop,REF456,
+CUST2316,Sam,25,Female,user182@example.com,9988776655,789 Blvd,Los Angeles,TX,,,6/15/2020,5/5/2023,250.5,Active,5,,,REF456,
+CUST3564,Sam,45,Male,user456@example.com,9876543210,123 St,Chicago,IL,,10001,6/15/2020,,100,,3,English,Desktop,REF123,1
+CUST3369,Alice,25,Male,user180@example.com,9988776655,789 Blvd,Houston,,USA,90001,6/15/2020,5/5/2023,0,Cancelled,1,,Desktop,REF123,0
+CUST8877,Alice,,Other,user711@example.com,9988776655,123 St,New York,TX,USA,,,5/5/2023,,Cancelled,1,French,Desktop,REF456,0
+CUST9560,Alice,,Male,,,,Chicago,,,90001,6/15/2020,,0,Cancelled,3,English,Desktop,REF123,
+CUST4364,John Doe,45,,user707@example.com,9123456780,456 Ave,Chicago,IL,,90001,,,250.5,,5,,Desktop,REF123,
+CUST2387,,25,Other,user477@example.com,,456 Ave,New York,NY,,,6/15/2020,5/5/2023,0,,4,French,,,2
+CUST1251,,35,M,user971@example.com,9876543210,,Chicago,TX,,90001,,12/1/2022,100,,4,French,,REF456,0
+CUST9997,Sam,30,Female,user871@example.com,9123456780,,New York,TX,,,,,100,,1,Spanish,Desktop,,
+CUST4718,,,Female,,9876543210,123 St,,CA,,,11/20/2019,,1000,,5,,Desktop,,3
+CUST2438,Alice,25,F,user256@example.com,9876543210,123 St,Chicago,CA,US,,,,1000,Inactive,1,,,REF123,3
+CUST7782,Sam,45,,user355@example.com,9123456780,456 Ave,Los Angeles,TX,USA,90001,11/20/2019,12/1/2022,0,Active,3,French,,,2
+CUST2574,,,,user504@example.com,9876543210,789 Blvd,Chicago,NY,,,11/20/2019,5/5/2023,,Cancelled,2,,Desktop,,3
+CUST7998,,,Male,user874@example.com,9876543210,456 Ave,,IL,US,10001,6/15/2020,12/1/2022,100,,1,,Desktop,,2
+CUST3206,John Doe,25,Female,user884@example.com,,,,CA,,10001,1/1/2021,12/1/2022,,Active,5,,,,
+,Sam,30,Male,user483@example.com,,789 Blvd,,,,,1/1/2021,12/1/2022,1000,Inactive,,,,REF456,
+CUST2833,,,,user234@example.com,,456 Ave,Los Angeles,,,,11/20/2019,,0,Inactive,1,Spanish,Desktop,REF123,3
+,John Doe,45,Male,,9876543210,,Houston,CA,USA,,6/15/2020,,250.5,,2,English,Tablet,REF456,1
+CUST7090,,40,M,user955@example.com,,123 St,Chicago,NY,,90001,6/15/2020,5/5/2023,,Inactive,5,French,,REF456,1
+CUST1233,Sam,35,Other,,9876543210,789 Blvd,New York,CA,USA,90001,6/15/2020,,250.5,Cancelled,,Spanish,,,3
+CUST5470,,25,,user74@example.com,9876543210,789 Blvd,,TX,,60601,6/15/2020,5/5/2023,1000,,4,,Desktop,,0
+CUST9905,Jane Smith,30,M,user244@example.com,,,Los Angeles,,US,,11/20/2019,12/1/2022,,Inactive,2,French,,REF123,
+CUST1183,,30,F,user753@example.com,,789 Blvd,Houston,TX,,60601,1/1/2021,12/1/2022,,,4,French,Mobile,,
+CUST8281,Sam,,Male,user33@example.com,,123 St,Chicago,TX,,60601,6/15/2020,5/5/2023,0,,4,English,Desktop,REF456,
+CUST3785,Jane Smith,35,M,user487@example.com,9876543210,123 St,Houston,,,,,,,Inactive,3,,Tablet,,
+CUST3675,Sam,,Other,user893@example.com,,456 Ave,,CA,US,,1/1/2021,5/5/2023,0,,3,Spanish,,,3
+CUST9026,Jane Smith,40,Other,,,,Houston,,USA,,11/20/2019,5/5/2023,,Inactive,3,English,,,
+CUST4236,Alice,30,Male,user128@example.com,,,Houston,IL,US,,11/20/2019,,1000,Active,2,Spanish,,REF123,0
+,John Doe,25,Male,user805@example.com,,789 Blvd,Houston,,US,,11/20/2019,,1000,Active,5,,,,
+CUST7436,John Doe,35,Other,,9876543210,789 Blvd,Houston,CA,,,6/15/2020,12/1/2022,1000,Cancelled,2,English,Tablet,,
+CUST7818,Alice,50,,user543@example.com,9988776655,456 Ave,Chicago,NY,US,,6/15/2020,5/5/2023,,Active,2,English,Desktop,,
+CUST7286,,25,F,user348@example.com,,123 St,,,US,10001,6/15/2020,12/1/2022,0,,4,French,Mobile,,2
+CUST7914,John Doe,40,F,user288@example.com,9876543210,456 Ave,,,,10001,,,100,,2,French,,,0
+CUST4767,,40,,,9123456780,789 Blvd,,,,,11/20/2019,12/1/2022,0,,,,,,
+CUST7059,Alice,50,,user74@example.com,9876543210,456 Ave,Chicago,IL,US,10001,11/20/2019,,1000,,1,,Tablet,,0
+CUST9293,Sam,,Other,user749@example.com,9876543210,456 Ave,Houston,,USA,,,,1000,Cancelled,4,,Mobile,,0
+,Alice,30,M,user264@example.com,9988776655,456 Ave,New York,CA,USA,60601,11/20/2019,,0,Cancelled,3,,,REF123,2
+CUST5210,,45,F,user447@example.com,9123456780,789 Blvd,Los Angeles,CA,US,,6/15/2020,,0,Active,,English,,REF456,3
+CUST5265,Alice,50,Female,user705@example.com,9123456780,456 Ave,,IL,USA,90001,1/1/2021,,,,3,French,Tablet,REF123,
+CUST9132,Jane Smith,,,user324@example.com,,,New York,TX,US,60601,11/20/2019,12/1/2022,1000,Active,5,French,,REF123,
+CUST3651,,25,M,user398@example.com,,456 Ave,,NY,US,10001,11/20/2019,,250.5,Active,,,Desktop,REF456,3
+CUST5038,Alice,50,F,user585@example.com,,123 St,Chicago,NY,US,10001,1/1/2021,5/5/2023,1000,,5,English,,REF456,1
+CUST2704,Sam,30,Female,user605@example.com,9988776655,,New York,,,10001,6/15/2020,5/5/2023,1000,Active,4,Spanish,,REF123,
+CUST8175,Jane Smith,45,Other,user721@example.com,9123456780,,New York,TX,,,,,,Active,1,French,,REF456,1
+CUST9527,Alice,30,M,,9988776655,,,NY,,,1/1/2021,,1000,Inactive,5,,Tablet,,1
+CUST6273,Jane Smith,30,Female,user709@example.com,9876543210,123 St,Los Angeles,NY,USA,10001,1/1/2021,5/5/2023,100,Inactive,4,English,Desktop,REF456,3
+CUST8628,,35,Female,user616@example.com,,456 Ave,,IL,,,6/15/2020,5/5/2023,0,Active,5,,Desktop,,
+CUST1669,Alice,45,M,user88@example.com,9123456780,,Los Angeles,TX,US,60601,1/1/2021,,0,Cancelled,1,,Mobile,,
+CUST8024,John Doe,35,,user649@example.com,,789 Blvd,,CA,,10001,,5/5/2023,1000,Active,,,Desktop,REF456,0
+,Alice,50,Other,user817@example.com,,789 Blvd,,TX,,10001,6/15/2020,,1000,,3,,Mobile,REF456,
+CUST5669,Alice,45,M,user75@example.com,,,New York,TX,,90001,,,,Active,4,,,REF123,2
+CUST5637,,25,Other,user146@example.com,,,,,,90001,11/20/2019,,1000,,3,English,Tablet,REF123,
+CUST1869,Jane Smith,50,F,,,,Houston,TX,,10001,,12/1/2022,1000,,1,French,,REF123,
+CUST4881,Alice,40,Other,user901@example.com,9123456780,456 Ave,New York,,,,,,0,Inactive,2,French,Desktop,,0
+CUST8006,Sam,40,Female,user456@example.com,9876543210,789 Blvd,New York,,,90001,6/15/2020,12/1/2022,250.5,,1,English,Desktop,,3
+CUST4931,John Doe,40,M,user274@example.com,,,Chicago,,,,,12/1/2022,250.5,Cancelled,,,,,0
+,,35,,user653@example.com,9988776655,123 St,Houston,IL,,90001,6/15/2020,,1000,Cancelled,3,English,Tablet,REF456,1
+,Alice,30,Male,user222@example.com,9988776655,,Los Angeles,,US,10001,11/20/2019,,,Active,1,French,Mobile,REF123,
+CUST1208,,50,Male,,9123456780,789 Blvd,Houston,NY,,10001,6/15/2020,5/5/2023,0,,,English,Tablet,REF456,2
+CUST4027,Sam,50,Male,user211@example.com,9123456780,456 Ave,Los Angeles,NY,US,60601,6/15/2020,12/1/2022,0,Inactive,2,,Mobile,,
+CUST3620,,,,user275@example.com,9988776655,456 Ave,New York,CA,,90001,11/20/2019,12/1/2022,,,2,,Mobile,REF123,
+CUST2851,,50,,,9988776655,,Chicago,IL,,60601,1/1/2021,5/5/2023,,Inactive,4,Spanish,Desktop,,
+CUST5227,,35,Female,,9876543210,789 Blvd,,IL,,,1/1/2021,,0,Inactive,3,English,,,2
+CUST3613,Sam,25,M,user251@example.com,9876543210,456 Ave,,CA,USA,90001,,,100,,4,,,,1
+CUST4904,Jane Smith,40,Female,user547@example.com,,123 St,Houston,,,,1/1/2021,5/5/2023,0,Active,1,,Mobile,REF123,0
+CUST8101,John Doe,25,Female,user914@example.com,9988776655,456 Ave,,,,,11/20/2019,12/1/2022,0,Active,,Spanish,Tablet,REF456,1
+CUST3525,,25,M,user697@example.com,9876543210,789 Blvd,Los Angeles,,US,10001,,,250.5,Active,4,Spanish,Desktop,,1
+CUST6558,,40,,user448@example.com,9123456780,,New York,,,,1/1/2021,12/1/2022,1000,Cancelled,4,,,REF123,3
+CUST8285,,40,Male,user770@example.com,,123 St,Los Angeles,CA,,,11/20/2019,12/1/2022,100,Inactive,3,English,,REF456,
+CUST6258,Alice,30,Other,user735@example.com,,456 Ave,Houston,,USA,60601,1/1/2021,12/1/2022,1000,Inactive,,English,,,2
+CUST8553,Jane Smith,35,Female,user800@example.com,,,Los Angeles,CA,USA,,11/20/2019,,0,Inactive,5,,Mobile,REF456,
+CUST5251,Sam,25,M,,9876543210,,Los Angeles,,US,90001,11/20/2019,,250.5,,4,,Mobile,REF123,2
+CUST2146,Alice,40,F,user487@example.com,9988776655,,Los Angeles,,US,10001,6/15/2020,,250.5,Inactive,5,French,Mobile,REF456,1
+CUST9864,Alice,25,Female,user172@example.com,9988776655,,New York,IL,US,,6/15/2020,,,Active,4,,Tablet,REF456,2
+CUST2019,Jane Smith,30,,,,,Chicago,TX,,,6/15/2020,5/5/2023,1000,,1,Spanish,,REF123,0
+CUST7853,,50,Male,user936@example.com,9988776655,456 Ave,New York,,USA,,,,250.5,Inactive,4,English,,REF123,3
+CUST9863,Alice,50,Other,user562@example.com,,123 St,New York,TX,USA,90001,6/15/2020,5/5/2023,250.5,,,,Tablet,,0
+CUST2283,,35,,user739@example.com,,,,IL,USA,60601,6/15/2020,12/1/2022,1000,Inactive,5,Spanish,,REF123,
+CUST3704,,,,user404@example.com,9123456780,456 Ave,New York,TX,,60601,,,1000,,1,,Desktop,,1
+CUST5778,Jane Smith,35,Female,user789@example.com,9876543210,,New York,TX,USA,90001,11/20/2019,12/1/2022,,,1,,,,1
+CUST9169,John Doe,35,Other,user174@example.com,9988776655,,Chicago,CA,,90001,1/1/2021,5/5/2023,100,Active,2,English,,REF123,0
+CUST5931,Jane Smith,,Male,user569@example.com,,123 St,,,USA,10001,6/15/2020,,100,,2,,Desktop,,1
+CUST8564,Alice,50,F,,9123456780,,Chicago,IL,,,6/15/2020,,,,3,,Tablet,,
+CUST6504,Jane Smith,35,Other,user655@example.com,,,Los Angeles,NY,USA,10001,,5/5/2023,,Inactive,2,French,Desktop,,1
+CUST4845,John Doe,35,Other,,,456 Ave,Houston,TX,USA,,11/20/2019,,1000,Inactive,1,,Tablet,REF123,1
+CUST6215,,35,M,user981@example.com,,123 St,Houston,,,90001,1/1/2021,5/5/2023,0,Inactive,1,,,REF123,3
+CUST6366,,35,F,,9876543210,,Houston,,US,,11/20/2019,,100,Cancelled,5,Spanish,Tablet,REF123,0
+CUST3764,John Doe,,Male,user991@example.com,9123456780,,Houston,CA,US,90001,11/20/2019,12/1/2022,0,Active,1,,Mobile,REF456,1
+CUST6558,Alice,25,Male,user378@example.com,,123 St,Houston,NY,,,1/1/2021,,0,Inactive,2,French,,REF123,
+CUST1428,,40,Other,user877@example.com,9123456780,123 St,Los Angeles,NY,USA,,,12/1/2022,100,,4,English,,REF123,0
+CUST9598,Jane Smith,35,,user784@example.com,9123456780,,,TX,US,,6/15/2020,,,Cancelled,5,English,Tablet,,
+CUST6982,Alice,40,,user169@example.com,9876543210,123 St,New York,CA,,,,,,Inactive,5,,Desktop,REF456,2
+CUST9530,Sam,35,F,,,789 Blvd,Houston,,,90001,,5/5/2023,,Active,5,,,REF123,
+CUST6495,Jane Smith,,F,user183@example.com,9123456780,456 Ave,,,US,10001,1/1/2021,,250.5,,3,English,Mobile,REF456,2
+CUST8971,Jane Smith,40,,user248@example.com,,,Los Angeles,TX,US,,6/15/2020,5/5/2023,1000,Inactive,2,French,Desktop,REF123,3
+CUST6123,Sam,45,Other,user800@example.com,9123456780,123 St,Chicago,TX,,90001,1/1/2021,12/1/2022,1000,Cancelled,2,Spanish,Tablet,,1
+CUST2867,Sam,45,M,user493@example.com,9123456780,456 Ave,New York,NY,US,10001,6/15/2020,,,Cancelled,,,Mobile,,0
+CUST4104,Jane Smith,45,Other,user731@example.com,9876543210,789 Blvd,Houston,TX,,,6/15/2020,,,Active,2,French,,,1
+CUST2210,,50,Male,user523@example.com,9988776655,456 Ave,Houston,CA,US,10001,6/15/2020,12/1/2022,0,Inactive,2,English,,,
+CUST4203,,25,Male,user120@example.com,,,,CA,,10001,11/20/2019,,100,Inactive,3,English,Mobile,,2
+CUST4933,Alice,30,F,,,,Houston,,,10001,6/15/2020,5/5/2023,100,Active,2,,Desktop,,
+CUST8126,,45,F,user714@example.com,,456 Ave,,CA,,,11/20/2019,12/1/2022,1000,,2,English,Desktop,REF123,1
+CUST6328,Sam,40,M,user286@example.com,,456 Ave,,TX,USA,,,,0,Cancelled,5,,Tablet,,1
+CUST5910,Sam,25,Male,user398@example.com,9988776655,789 Blvd,New York,,USA,,1/1/2021,12/1/2022,0,Cancelled,,,,REF456,3
+CUST9472,,50,Male,,,789 Blvd,New York,IL,,10001,,,,,,English,Desktop,,1
+CUST3402,Sam,35,,user86@example.com,9123456780,123 St,New York,CA,,60601,,12/1/2022,100,Active,2,English,,,0
+CUST5328,Sam,50,M,user262@example.com,,123 St,Los Angeles,CA,,,,12/1/2022,,Active,1,English,Desktop,REF123,
+CUST5251,Sam,35,F,user307@example.com,9988776655,,Chicago,CA,US,10001,1/1/2021,5/5/2023,1000,Active,3,,,REF123,2
+CUST2670,,,M,user143@example.com,,,Houston,TX,US,,6/15/2020,5/5/2023,1000,Active,4,English,,REF123,0
+CUST5773,,30,Other,,,,Houston,,,,1/1/2021,,250.5,Active,,,,,0
+CUST4011,Jane Smith,40,M,user281@example.com,,,Los Angeles,,,,,12/1/2022,100,Cancelled,3,,Mobile,REF123,
+CUST1691,,35,,,9876543210,789 Blvd,Houston,NY,,10001,,,0,,4,,,,0
+CUST5323,,45,,user137@example.com,9123456780,456 Ave,Chicago,TX,USA,90001,11/20/2019,,1000,Active,3,,Mobile,REF456,
+CUST6730,John Doe,50,M,user957@example.com,9876543210,123 St,Houston,NY,USA,,6/15/2020,,250.5,Cancelled,,,Tablet,REF456,2
+,Sam,40,F,user41@example.com,9123456780,789 Blvd,,CA,,10001,1/1/2021,5/5/2023,250.5,Cancelled,1,French,Mobile,REF456,
+CUST2495,John Doe,35,F,user664@example.com,9876543210,,Chicago,,USA,,11/20/2019,5/5/2023,250.5,,5,,Tablet,,2
+CUST9184,Sam,25,M,user934@example.com,,,Los Angeles,IL,,90001,,,0,,2,Spanish,Mobile,REF456,0
+CUST1569,,45,M,user44@example.com,9988776655,456 Ave,Chicago,,US,60601,6/15/2020,,,,,,Desktop,REF123,
+CUST2083,,50,Male,user477@example.com,9988776655,,Houston,,,,,12/1/2022,100,Inactive,2,,Desktop,REF456,0
+CUST9808,Alice,40,F,user51@example.com,9876543210,123 St,Los Angeles,NY,USA,,6/15/2020,,250.5,,5,,,,0
+CUST3375,Jane Smith,30,Female,,9876543210,456 Ave,Chicago,NY,USA,,6/15/2020,5/5/2023,250.5,Inactive,5,,Mobile,REF456,2
+CUST5282,John Doe,35,Other,user474@example.com,9876543210,456 Ave,Houston,IL,,90001,6/15/2020,5/5/2023,1000,Cancelled,5,English,,,
+CUST2017,Sam,50,Female,user280@example.com,9876543210,789 Blvd,New York,,,90001,6/15/2020,12/1/2022,1000,Cancelled,3,,Desktop,REF456,
+CUST9947,John Doe,35,,user850@example.com,9123456780,456 Ave,Chicago,CA,USA,,6/15/2020,12/1/2022,0,,1,Spanish,,REF456,
+CUST9666,,25,F,user607@example.com,9988776655,789 Blvd,New York,TX,US,,1/1/2021,,,Active,4,Spanish,Desktop,REF456,
+CUST7844,Sam,45,Female,user992@example.com,9123456780,,Los Angeles,,,,11/20/2019,12/1/2022,0,Inactive,2,,,REF123,
+CUST5024,Sam,50,Female,user545@example.com,9123456780,,New York,IL,US,10001,6/15/2020,12/1/2022,250.5,,2,English,,,
+CUST1891,Sam,30,Other,user63@example.com,,123 St,Los Angeles,IL,USA,60601,,,100,Inactive,1,English,,,1
+CUST7822,John Doe,40,Female,user55@example.com,9123456780,789 Blvd,Houston,,USA,60601,1/1/2021,5/5/2023,,Active,2,French,,REF123,
+CUST2940,Alice,30,M,,9123456780,,Houston,IL,USA,90001,,12/1/2022,,Cancelled,3,English,Tablet,,
+,,50,Female,user168@example.com,,789 Blvd,Los Angeles,TX,US,,11/20/2019,,250.5,Cancelled,4,,,REF123,2
+CUST6106,Jane Smith,45,Other,user797@example.com,,123 St,New York,,,10001,11/20/2019,,1000,Active,,English,,,3
+CUST2524,Jane Smith,25,,,9876543210,123 St,Los Angeles,IL,,,,,250.5,Active,5,French,Tablet,REF123,3
+CUST5894,,40,Other,user115@example.com,9988776655,456 Ave,,TX,,60601,11/20/2019,12/1/2022,,Cancelled,2,French,Desktop,REF456,
+CUST3752,Sam,45,M,user939@example.com,,,Chicago,IL,,90001,,,0,,2,,Desktop,REF123,3
+CUST5419,,40,Male,user232@example.com,9123456780,456 Ave,,TX,US,10001,1/1/2021,12/1/2022,100,,3,English,,,2
+,,25,,user518@example.com,9988776655,,,NY,US,10001,11/20/2019,,0,,2,Spanish,,REF123,3
+CUST5469,Jane Smith,35,F,user301@example.com,,,New York,NY,US,60601,1/1/2021,12/1/2022,100,Inactive,1,French,Tablet,REF456,
+CUST2254,John Doe,45,F,,,789 Blvd,New York,IL,,90001,1/1/2021,,1000,Active,,,,,
+CUST4320,Sam,35,F,user181@example.com,,789 Blvd,,CA,USA,,,,1000,,5,French,,,
+CUST4878,Jane Smith,35,Male,user107@example.com,9123456780,456 Ave,Los Angeles,,,,,,250.5,Active,5,Spanish,Mobile,REF123,2
+CUST9618,Sam,50,Female,user328@example.com,9988776655,,Chicago,TX,USA,10001,1/1/2021,5/5/2023,1000,,5,,Tablet,REF456,0
+CUST8477,John Doe,25,M,user696@example.com,9123456780,123 St,Los Angeles,,USA,90001,11/20/2019,5/5/2023,250.5,Active,4,English,,REF456,2
+CUST7635,Sam,30,Other,user97@example.com,,123 St,Los Angeles,,,10001,1/1/2021,,0,Inactive,1,,,,1
+CUST8911,,30,F,user673@example.com,9876543210,123 St,New York,,US,90001,6/15/2020,12/1/2022,0,Active,2,French,,,1
+CUST7258,,,,user941@example.com,9988776655,789 Blvd,Chicago,CA,,,,5/5/2023,1000,,5,Spanish,Mobile,,2
+CUST6485,Sam,50,F,user503@example.com,,789 Blvd,Los Angeles,IL,USA,90001,,5/5/2023,,Cancelled,2,English,Desktop,,
+CUST5813,,50,Other,user559@example.com,9988776655,789 Blvd,New York,NY,,60601,1/1/2021,12/1/2022,0,,1,Spanish,,,3
+CUST1867,John Doe,45,Male,user703@example.com,,789 Blvd,Chicago,,US,,1/1/2021,12/1/2022,1000,Inactive,5,English,Desktop,,0
+CUST3137,,25,Female,,9988776655,456 Ave,New York,CA,USA,90001,11/20/2019,,250.5,Active,3,,,REF456,0
+CUST2999,Alice,25,F,user2@example.com,9123456780,123 St,,CA,US,,11/20/2019,,,Active,1,Spanish,,,1
+,Jane Smith,45,Other,,,,Houston,,,,,,0,Cancelled,4,English,Mobile,,0
+CUST4109,Jane Smith,40,F,user853@example.com,9876543210,,Chicago,,,90001,1/1/2021,,1000,Cancelled,4,,,REF123,3
+CUST9794,Alice,50,M,user333@example.com,9123456780,,New York,TX,,60601,6/15/2020,,100,,5,English,Desktop,REF456,1
+CUST3582,Jane Smith,40,Male,user246@example.com,9876543210,,New York,CA,USA,90001,,12/1/2022,1000,Active,5,French,,,0
+CUST7360,Alice,25,,user444@example.com,9988776655,123 St,,,US,,6/15/2020,,250.5,Inactive,4,English,Tablet,,
+CUST1244,,45,F,user826@example.com,9876543210,456 Ave,Los Angeles,NY,,60601,11/20/2019,,250.5,Inactive,5,French,,REF123,3
+,John Doe,45,Other,user211@example.com,9988776655,,,TX,US,60601,,5/5/2023,1000,,3,Spanish,,,1
+CUST7787,,,Male,,,123 St,Houston,TX,US,,6/15/2020,,0,,3,French,Tablet,,3
+CUST7024,Alice,45,,user996@example.com,9876543210,,,TX,,10001,1/1/2021,5/5/2023,0,Inactive,5,Spanish,Desktop,,
+CUST8827,Alice,45,,user309@example.com,,,Los Angeles,TX,,60601,11/20/2019,,1000,,,,Desktop,REF123,3
+CUST1721,,30,M,user666@example.com,9876543210,,Houston,CA,USA,60601,11/20/2019,5/5/2023,,,,,,REF123,
+CUST9747,,40,Female,user498@example.com,,,Chicago,NY,,10001,6/15/2020,12/1/2022,100,,2,Spanish,,REF456,
+CUST4456,Sam,35,Other,user782@example.com,,456 Ave,Houston,TX,,60601,11/20/2019,,250.5,Active,1,French,,,3
+CUST9853,John Doe,40,Other,,,456 Ave,New York,,USA,,6/15/2020,5/5/2023,,,,,Desktop,,1
+CUST1193,,45,Other,user753@example.com,9123456780,789 Blvd,Houston,TX,US,,1/1/2021,,100,,4,French,,REF123,3
+CUST3784,,45,Other,,9988776655,,New York,,US,90001,1/1/2021,12/1/2022,1000,,5,Spanish,Mobile,REF123,
+CUST7144,Alice,,Female,user346@example.com,9123456780,789 Blvd,Chicago,TX,USA,,6/15/2020,5/5/2023,1000,,4,,Mobile,,1
+CUST3604,Sam,30,Other,user888@example.com,,789 Blvd,,CA,,90001,6/15/2020,12/1/2022,,Inactive,1,Spanish,Desktop,,
+CUST1427,,25,F,user801@example.com,9988776655,123 St,Chicago,IL,USA,,6/15/2020,,1000,Cancelled,3,Spanish,Tablet,,1
+CUST6973,,,Male,user856@example.com,9988776655,,,NY,US,90001,1/1/2021,,1000,Cancelled,2,Spanish,,REF123,0
+CUST7861,Alice,35,Other,,,,New York,IL,,,6/15/2020,,250.5,Active,5,English,Desktop,,3
+,,35,Male,user523@example.com,,,New York,TX,,10001,11/20/2019,12/1/2022,100,Inactive,5,English,Mobile,REF123,2
+CUST2937,,35,M,user502@example.com,9123456780,789 Blvd,New York,,USA,,,,100,,1,,Mobile,REF456,2
+CUST7115,Jane Smith,50,Male,user372@example.com,9123456780,456 Ave,,IL,,,1/1/2021,,0,,4,,Mobile,,
+CUST7584,Sam,30,F,user274@example.com,,,,NY,US,,11/20/2019,,,Inactive,1,English,,REF456,3
+CUST4267,,,Female,user202@example.com,,123 St,Houston,CA,USA,60601,6/15/2020,,250.5,Cancelled,5,,Desktop,,
+CUST9869,Alice,35,F,user829@example.com,,123 St,,,US,60601,11/20/2019,,0,Cancelled,,,,,3
+CUST6713,John Doe,30,,user344@example.com,,456 Ave,Los Angeles,,,,,,1000,Cancelled,4,English,Tablet,,
+CUST7497,Sam,25,Female,user701@example.com,9123456780,,New York,IL,US,90001,,,,Active,,French,,,2
+CUST5333,Alice,40,,,9988776655,789 Blvd,Chicago,CA,US,90001,11/20/2019,12/1/2022,0,Active,4,,,REF123,3
+CUST1880,Alice,50,Other,user380@example.com,9123456780,,,NY,,90001,1/1/2021,,100,Cancelled,,,Mobile,REF456,3
+CUST9791,John Doe,,F,user625@example.com,9123456780,,Houston,CA,USA,10001,,12/1/2022,1000,Inactive,3,French,,REF123,
+CUST9489,Alice,35,M,user117@example.com,,,New York,,USA,,6/15/2020,,,Cancelled,,English,Desktop,REF123,0
+CUST8159,,45,,user697@example.com,,123 St,,NY,US,90001,11/20/2019,,0,,4,English,,,1
+CUST5400,,40,M,user271@example.com,9876543210,,,,,60601,11/20/2019,5/5/2023,,,3,English,,,3
+CUST9109,Sam,50,Female,,9123456780,123 St,Chicago,TX,USA,,1/1/2021,,100,,2,,,REF123,
+CUST1580,Sam,40,M,user782@example.com,,789 Blvd,New York,,USA,90001,11/20/2019,12/1/2022,1000,,5,Spanish,Desktop,REF123,0
+CUST6783,Jane Smith,40,Female,user353@example.com,,456 Ave,Houston,CA,,10001,1/1/2021,,,,2,,,REF456,0
+CUST8691,Alice,,M,user136@example.com,,789 Blvd,New York,NY,USA,,11/20/2019,,0,Cancelled,3,French,Desktop,,3
+CUST1143,John Doe,30,Male,user626@example.com,9988776655,789 Blvd,,NY,,,,,0,,,,Mobile,,3
+CUST1667,,35,M,,,,New York,,,,,,1000,Active,5,,Desktop,,1
+CUST5250,Sam,50,Other,user943@example.com,9988776655,456 Ave,New York,IL,,,1/1/2021,5/5/2023,0,,1,,,,1
+CUST7853,,25,,,,789 Blvd,New York,,,10001,11/20/2019,,1000,Cancelled,4,,Mobile,,
+CUST4553,Sam,40,F,user914@example.com,9123456780,123 St,,NY,USA,10001,11/20/2019,,250.5,,5,English,,,3
+CUST2933,John Doe,,Male,user660@example.com,9123456780,456 Ave,Houston,TX,,10001,11/20/2019,,250.5,Active,3,,Mobile,,2
+CUST3368,John Doe,50,Male,,9988776655,,New York,,USA,,6/15/2020,12/1/2022,,Inactive,4,,Tablet,,0
+CUST6367,John Doe,45,F,user705@example.com,9876543210,,Houston,NY,US,90001,6/15/2020,,100,,1,,Mobile,REF123,3
+CUST4808,Jane Smith,,Male,user866@example.com,9988776655,,,CA,US,,11/20/2019,12/1/2022,1000,,2,Spanish,,,0
+CUST7922,Jane Smith,,Female,user988@example.com,9988776655,123 St,Chicago,TX,,60601,,,1000,Cancelled,3,,Mobile,REF456,3
+CUST5361,Sam,25,,user392@example.com,9988776655,,,,USA,,1/1/2021,12/1/2022,1000,Cancelled,3,,Tablet,REF456,
+CUST7452,Jane Smith,30,F,,,789 Blvd,New York,NY,US,,,5/5/2023,100,Cancelled,4,English,Mobile,,
+CUST2082,Alice,40,F,user141@example.com,9988776655,123 St,Chicago,NY,USA,,1/1/2021,,250.5,Inactive,5,French,,,1
+CUST8694,Sam,50,Other,,9876543210,123 St,Chicago,,US,10001,1/1/2021,,100,Cancelled,3,French,,REF456,
+CUST5192,,40,M,,9123456780,123 St,Los Angeles,TX,USA,90001,6/15/2020,,,,,,Tablet,REF456,
+CUST9097,,,F,user919@example.com,9123456780,,Chicago,,US,90001,11/20/2019,,250.5,Cancelled,3,French,Tablet,,
+CUST1064,John Doe,40,,,,,Houston,,US,60601,6/15/2020,,100,Cancelled,3,,Tablet,REF456,0
+CUST1556,Alice,35,Other,user844@example.com,9123456780,,Houston,TX,,10001,,5/5/2023,250.5,,5,English,Tablet,,2
+CUST3794,Jane Smith,35,Male,user724@example.com,,123 St,Chicago,IL,,10001,1/1/2021,12/1/2022,100,,,Spanish,Tablet,,
+CUST1074,,40,Other,user475@example.com,9988776655,123 St,Los Angeles,CA,US,,6/15/2020,,100,Inactive,3,English,Mobile,REF456,
+CUST2276,Alice,35,,user735@example.com,9988776655,456 Ave,,IL,US,60601,,,,Cancelled,1,French,Mobile,REF456,
+CUST7482,Alice,35,M,user437@example.com,9876543210,,,TX,,,6/15/2020,,100,Cancelled,4,Spanish,Desktop,REF123,
+CUST3508,Sam,50,Other,user494@example.com,,123 St,New York,,,,6/15/2020,5/5/2023,1000,Inactive,1,French,Tablet,REF123,
+CUST2427,Sam,,Female,user603@example.com,9988776655,123 St,Houston,,US,10001,1/1/2021,12/1/2022,250.5,Active,1,French,Mobile,,1
+CUST9104,Sam,30,Male,user886@example.com,,456 Ave,Houston,IL,,,1/1/2021,12/1/2022,250.5,,3,French,,REF123,3
+CUST1087,John Doe,50,M,user366@example.com,9988776655,123 St,,,US,60601,11/20/2019,,0,Cancelled,5,Spanish,Mobile,,1
+CUST1029,John Doe,25,Male,user126@example.com,9876543210,,New York,NY,US,10001,11/20/2019,,1000,Inactive,3,French,,,
+CUST2685,Alice,40,Female,user964@example.com,9876543210,,Chicago,IL,US,60601,1/1/2021,5/5/2023,100,,5,French,Tablet,REF123,
+CUST9339,Jane Smith,50,Male,user623@example.com,9123456780,,Chicago,NY,US,90001,1/1/2021,,100,,4,,Tablet,,0
+CUST4583,,35,Other,user943@example.com,9876543210,456 Ave,Chicago,,USA,90001,,5/5/2023,250.5,Cancelled,1,Spanish,Mobile,REF456,
+CUST6726,,35,F,user747@example.com,9123456780,,Houston,,,,1/1/2021,5/5/2023,250.5,Active,,English,,REF456,0
+CUST2025,Sam,35,,user180@example.com,9988776655,789 Blvd,New York,NY,US,90001,,12/1/2022,0,Cancelled,3,,,REF123,
+CUST8604,,,M,user48@example.com,9988776655,123 St,Chicago,,USA,90001,1/1/2021,,250.5,Active,1,English,,REF123,
+CUST7671,Sam,40,Male,user610@example.com,9988776655,,Chicago,CA,,,1/1/2021,5/5/2023,250.5,Cancelled,1,Spanish,Mobile,REF123,1
+CUST9469,Sam,45,Male,user524@example.com,,123 St,Chicago,TX,,10001,,,250.5,Active,,French,Tablet,,3
+CUST4199,Sam,,F,user890@example.com,9988776655,789 Blvd,Houston,,,10001,11/20/2019,,0,,1,French,Mobile,REF123,
+CUST1741,Sam,,Female,,,,,,,,6/15/2020,5/5/2023,,Active,4,Spanish,Desktop,,2
+CUST1333,,45,Female,user266@example.com,,789 Blvd,Houston,CA,USA,,,,250.5,,,English,Desktop,REF456,0
+CUST1801,Jane Smith,25,,,,123 St,,,US,,11/20/2019,,250.5,Active,5,,Desktop,REF123,3
+CUST3125,,50,,user445@example.com,,,,,,60601,,,100,Cancelled,4,,Mobile,,3
+CUST1837,John Doe,50,F,user527@example.com,9123456780,123 St,Houston,CA,,90001,,,,,3,Spanish,Desktop,,
+CUST3188,,25,Other,user740@example.com,9123456780,123 St,,TX,,60601,6/15/2020,,,,1,,,,3
+CUST9461,,35,M,user896@example.com,9123456780,123 St,Chicago,NY,,10001,,,,,,Spanish,Desktop,,2
+CUST4364,John Doe,50,Female,,,789 Blvd,Los Angeles,,USA,10001,,5/5/2023,,Active,1,,,REF456,1
+CUST8696,Alice,45,Other,user278@example.com,9988776655,,New York,,,,1/1/2021,12/1/2022,0,Cancelled,1,French,,,1
+CUST6922,Alice,,Female,user307@example.com,9123456780,,Houston,CA,USA,,11/20/2019,,100,Active,3,English,,REF456,2
+CUST2960,Alice,25,Other,user54@example.com,9123456780,456 Ave,Los Angeles,IL,,,11/20/2019,,,,4,,Tablet,,
+CUST2166,Sam,,Other,user344@example.com,9876543210,789 Blvd,,,,90001,1/1/2021,,0,Active,1,Spanish,Tablet,REF456,
+CUST3806,Sam,40,,user888@example.com,,456 Ave,Chicago,TX,USA,90001,11/20/2019,12/1/2022,100,,2,,,REF456,1
+CUST4497,Jane Smith,30,Male,user32@example.com,,789 Blvd,,NY,,60601,6/15/2020,5/5/2023,250.5,,,English,,,3
+CUST8535,John Doe,35,Female,user443@example.com,9123456780,123 St,Los Angeles,,,60601,1/1/2021,5/5/2023,,Inactive,1,English,,REF123,1
+CUST7357,Jane Smith,25,Female,user821@example.com,,,,CA,USA,,11/20/2019,12/1/2022,250.5,Active,5,,,REF123,
+CUST9518,Jane Smith,40,Male,,9988776655,,,NY,,90001,1/1/2021,5/5/2023,100,Active,5,Spanish,,,3
+CUST5736,Jane Smith,40,Other,user1@example.com,9988776655,456 Ave,Los Angeles,,US,90001,1/1/2021,,0,Active,2,French,,REF456,0
+CUST8092,John Doe,40,F,user766@example.com,,,Chicago,,US,,1/1/2021,5/5/2023,1000,Cancelled,3,,,REF456,1
+CUST2783,Alice,,,user461@example.com,9988776655,123 St,Los Angeles,,US,60601,,,100,Inactive,,English,Tablet,REF456,2
+CUST5132,Alice,40,F,,9123456780,123 St,New York,CA,,,,,,Active,,,Desktop,REF123,3
+CUST8032,Sam,35,M,user285@example.com,,456 Ave,Houston,IL,,,1/1/2021,,0,Cancelled,2,,,,
+CUST4749,Jane Smith,35,Female,,9876543210,456 Ave,New York,TX,,10001,1/1/2021,12/1/2022,250.5,Active,5,English,,REF123,
+CUST2723,Jane Smith,25,Female,,,123 St,,IL,,60601,6/15/2020,5/5/2023,,Active,3,,,REF456,1
+CUST6620,Alice,,Male,user928@example.com,,123 St,Los Angeles,NY,,60601,11/20/2019,12/1/2022,0,,4,,Desktop,REF123,
+CUST5554,Alice,25,M,user928@example.com,,123 St,New York,TX,,90001,1/1/2021,,0,Inactive,4,Spanish,,REF456,
+CUST2109,,45,,user555@example.com,,789 Blvd,Chicago,,US,,6/15/2020,5/5/2023,1000,Active,5,English,Mobile,REF123,3
+CUST3675,John Doe,35,,user90@example.com,,789 Blvd,Los Angeles,,,60601,,,1000,,5,Spanish,,REF456,3
+CUST7014,Alice,50,Female,user613@example.com,9988776655,123 St,Los Angeles,,,90001,6/15/2020,,0,Cancelled,5,,Tablet,REF456,
+CUST1844,Sam,45,,user677@example.com,9988776655,456 Ave,Los Angeles,CA,US,10001,,5/5/2023,,Cancelled,4,English,Tablet,REF456,0
+CUST7311,Alice,40,,user892@example.com,,123 St,New York,NY,,,11/20/2019,,1000,Active,2,,Tablet,REF456,
+CUST8182,Sam,40,Female,user129@example.com,9876543210,123 St,New York,NY,USA,,11/20/2019,12/1/2022,0,Cancelled,1,,Desktop,,3
+CUST3461,John Doe,50,,user379@example.com,9988776655,789 Blvd,Chicago,,US,10001,1/1/2021,5/5/2023,,Cancelled,3,English,,REF456,1
+CUST7884,,45,F,user557@example.com,,123 St,Los Angeles,CA,USA,10001,1/1/2021,,,Cancelled,5,,Tablet,REF456,2
+CUST7323,Sam,25,,user527@example.com,,,New York,NY,,10001,,5/5/2023,0,Active,,,Desktop,,2
+CUST4990,,,Other,,,,New York,,USA,,,5/5/2023,250.5,,2,,Tablet,,
+CUST2523,Jane Smith,30,Other,user953@example.com,9876543210,789 Blvd,Los Angeles,TX,,90001,1/1/2021,,250.5,Inactive,1,French,Tablet,REF123,0
+CUST4513,Jane Smith,30,M,user70@example.com,,123 St,Houston,TX,US,,,12/1/2022,0,Active,,English,,,2
+CUST7264,John Doe,45,Other,user873@example.com,,456 Ave,Chicago,,USA,60601,11/20/2019,5/5/2023,1000,,2,,Desktop,,
+CUST6483,Jane Smith,40,F,user544@example.com,,,Chicago,,US,,11/20/2019,12/1/2022,,,4,Spanish,,REF456,
+CUST4404,Alice,25,Female,user103@example.com,9988776655,789 Blvd,New York,CA,,90001,1/1/2021,,,Cancelled,5,English,Desktop,REF456,3
+CUST4619,Jane Smith,40,F,user426@example.com,9876543210,456 Ave,Los Angeles,NY,US,,6/15/2020,,250.5,,,,Mobile,,
+CUST1800,Alice,45,Other,user299@example.com,9876543210,456 Ave,Chicago,,USA,,1/1/2021,5/5/2023,,Active,3,French,Tablet,REF123,2
+CUST8637,,50,M,user65@example.com,,,Los Angeles,TX,,10001,11/20/2019,,1000,Active,2,,Tablet,REF456,
+CUST1882,John Doe,25,M,user887@example.com,9988776655,789 Blvd,New York,TX,,10001,6/15/2020,,250.5,Active,3,,,REF123,
+CUST9339,John Doe,25,Male,user40@example.com,9123456780,123 St,Houston,CA,,90001,1/1/2021,12/1/2022,250.5,,,,,REF123,1
+CUST8556,,50,Female,user512@example.com,9988776655,,New York,NY,,,6/15/2020,,0,Cancelled,2,Spanish,Desktop,REF456,2
+CUST8772,Jane Smith,45,Female,,9988776655,789 Blvd,New York,IL,,,,,,,4,,,,1
+CUST1396,,50,,user910@example.com,9876543210,456 Ave,Houston,NY,,60601,1/1/2021,,250.5,Inactive,4,Spanish,,REF123,
+CUST7689,John Doe,,,user609@example.com,9876543210,,,CA,US,10001,1/1/2021,,250.5,Active,1,Spanish,,REF123,3
+CUST9585,,30,,user332@example.com,,,Chicago,,US,10001,1/1/2021,,1000,Inactive,1,Spanish,,,3
+CUST2612,Alice,30,,,,123 St,New York,,USA,,6/15/2020,,100,Cancelled,3,,Tablet,,1
+CUST6605,,50,Other,user638@example.com,,,Los Angeles,,USA,10001,6/15/2020,12/1/2022,,Cancelled,2,,,,0
+CUST9186,Alice,30,Other,user457@example.com,9988776655,789 Blvd,Chicago,,,90001,11/20/2019,5/5/2023,100,,1,French,Desktop,,0
+CUST1731,,45,,user692@example.com,,456 Ave,,CA,,,6/15/2020,5/5/2023,250.5,Inactive,1,,,,
+CUST1238,Sam,25,F,user633@example.com,9988776655,123 St,Houston,CA,,10001,6/15/2020,,0,,5,,,REF123,
+CUST4367,,,Female,,,456 Ave,New York,,,,,,100,,3,French,Tablet,,0
+CUST3970,John Doe,,Male,user791@example.com,9876543210,789 Blvd,Chicago,,,90001,,,250.5,,5,,,,
+CUST3701,,40,M,user130@example.com,9123456780,,,NY,,60601,6/15/2020,,100,Inactive,1,,,REF456,3
+CUST8255,Jane Smith,30,Male,,,123 St,Los Angeles,,US,,1/1/2021,5/5/2023,0,Cancelled,2,,Desktop,REF123,
+CUST6948,Sam,35,,user472@example.com,9123456780,,Los Angeles,NY,,,1/1/2021,12/1/2022,100,Cancelled,1,,Mobile,REF456,2
+CUST5394,John Doe,45,Female,user90@example.com,9876543210,,Houston,TX,US,,1/1/2021,5/5/2023,250.5,Inactive,,English,Mobile,,
+CUST3118,Sam,50,Other,user448@example.com,9988776655,789 Blvd,Los Angeles,,USA,,6/15/2020,12/1/2022,0,Active,,English,Mobile,REF456,3
+CUST5718,Jane Smith,30,Female,user59@example.com,9876543210,456 Ave,Houston,IL,,10001,11/20/2019,,,Active,4,,Tablet,REF456,3
+CUST8236,Alice,45,M,user472@example.com,9123456780,,Los Angeles,,US,10001,1/1/2021,5/5/2023,,,3,English,Mobile,REF123,2
+CUST5798,John Doe,25,Female,user954@example.com,,,Los Angeles,TX,US,,11/20/2019,,100,Active,,,Desktop,REF123,
+CUST6021,Sam,25,Female,user149@example.com,9876543210,789 Blvd,Los Angeles,TX,US,,11/20/2019,12/1/2022,250.5,,,,,,
+CUST5076,John Doe,45,Other,user226@example.com,9876543210,789 Blvd,New York,NY,USA,,,5/5/2023,,Active,,Spanish,,REF123,1
+CUST9044,John Doe,30,Other,,,,Los Angeles,NY,,90001,6/15/2020,,0,Cancelled,4,Spanish,Tablet,REF456,
+CUST2552,Alice,30,F,user806@example.com,9876543210,,,CA,,60601,11/20/2019,,,Cancelled,,English,Desktop,REF456,2
+CUST1253,,,Other,user17@example.com,9123456780,789 Blvd,,IL,,60601,11/20/2019,,100,Cancelled,,Spanish,,,1
+CUST6359,Jane Smith,35,M,user483@example.com,,123 St,,,,,11/20/2019,12/1/2022,0,,5,English,,,
+CUST4177,Alice,25,Male,user699@example.com,,789 Blvd,Los Angeles,CA,,90001,11/20/2019,12/1/2022,0,Active,2,,Mobile,,3
+CUST8768,Jane Smith,30,,user141@example.com,9988776655,123 St,New York,,USA,90001,11/20/2019,12/1/2022,100,,,English,,REF123,
+CUST7599,Sam,40,M,user926@example.com,9988776655,123 St,New York,CA,US,60601,6/15/2020,12/1/2022,,,,Spanish,Mobile,REF123,0
+CUST1869,Alice,,Male,user718@example.com,9123456780,,,TX,,,6/15/2020,12/1/2022,0,,5,,Desktop,REF123,3
+CUST7138,Sam,40,Other,user489@example.com,9988776655,,Chicago,,,,11/20/2019,,,Active,1,,,REF123,
+CUST6686,Jane Smith,50,Female,user811@example.com,,,Houston,,,,6/15/2020,12/1/2022,250.5,Cancelled,2,English,Desktop,REF456,1
+CUST4394,,40,Other,user882@example.com,9876543210,789 Blvd,Chicago,,,10001,6/15/2020,12/1/2022,,,5,,Desktop,REF123,
+CUST6402,Sam,50,,,9876543210,789 Blvd,Los Angeles,TX,,,6/15/2020,,0,Active,5,English,,,0
+CUST2228,John Doe,25,F,,9123456780,789 Blvd,Chicago,NY,,60601,11/20/2019,,1000,Active,3,French,Desktop,REF123,
+CUST1915,John Doe,25,Female,,9123456780,789 Blvd,Los Angeles,,USA,60601,11/20/2019,5/5/2023,0,,5,Spanish,,REF456,2
+CUST3260,Jane Smith,50,F,user855@example.com,9988776655,,New York,NY,USA,,1/1/2021,12/1/2022,100,Active,3,English,Mobile,,2
+CUST1941,,45,M,user826@example.com,9988776655,,Chicago,CA,US,90001,,5/5/2023,1000,Inactive,1,,Mobile,,1
+CUST7102,John Doe,40,M,user99@example.com,,789 Blvd,New York,,USA,90001,6/15/2020,,1000,,2,French,,,1
+CUST5786,Alice,35,F,user700@example.com,9876543210,789 Blvd,Chicago,CA,US,,1/1/2021,5/5/2023,0,Cancelled,3,,,,2
+CUST9907,Alice,40,Other,,9123456780,456 Ave,Chicago,,USA,60601,,,250.5,,4,French,Tablet,REF456,
+CUST4281,,45,Other,user352@example.com,,,New York,,US,,1/1/2021,,1000,,2,,,,3
+CUST8206,,,M,user609@example.com,9988776655,123 St,New York,NY,US,90001,6/15/2020,,1000,Cancelled,4,,Desktop,REF456,
+CUST6130,Alice,,Male,user775@example.com,,123 St,New York,TX,,90001,1/1/2021,,,,,English,Tablet,REF456,3
+CUST9251,,50,M,,9988776655,,Chicago,TX,,90001,1/1/2021,5/5/2023,,Cancelled,1,,Desktop,REF456,
+CUST1598,,45,F,user153@example.com,9988776655,,,,US,,11/20/2019,5/5/2023,100,Active,1,French,Desktop,REF123,3
+CUST5574,,50,Female,,9876543210,,New York,,,,1/1/2021,,250.5,,,French,Desktop,REF456,
+CUST8709,Jane Smith,35,M,user24@example.com,,123 St,Chicago,NY,,,1/1/2021,,1000,,2,,Desktop,,
+CUST2504,Alice,,F,user777@example.com,9876543210,,Los Angeles,IL,US,10001,1/1/2021,,0,Active,1,,,REF456,2
+CUST2976,Jane Smith,50,Female,,9123456780,123 St,Los Angeles,TX,US,90001,,,1000,Inactive,3,English,Desktop,,
+CUST6448,Alice,30,F,user644@example.com,,789 Blvd,New York,NY,,10001,11/20/2019,,1000,Cancelled,2,,,,1
+CUST1175,Sam,,Other,user238@example.com,,,,CA,US,60601,6/15/2020,5/5/2023,,,4,,,REF456,0
+CUST3896,Jane Smith,45,,user585@example.com,,,Houston,,USA,60601,1/1/2021,12/1/2022,0,Inactive,5,,Mobile,REF456,0
+CUST1596,,45,F,,,,Houston,NY,US,10001,6/15/2020,,0,,3,Spanish,,,1
+CUST6127,Alice,45,Female,user409@example.com,,789 Blvd,,CA,,,11/20/2019,,,Inactive,3,Spanish,,REF456,0
+CUST3907,Alice,30,Male,user759@example.com,,456 Ave,Chicago,IL,US,60601,1/1/2021,12/1/2022,1000,,2,English,,,1
+CUST9263,Alice,,Female,user918@example.com,9988776655,,,IL,,10001,,,1000,Inactive,5,English,,,0
+CUST7019,,30,M,user527@example.com,9123456780,123 St,,TX,,90001,6/15/2020,,0,Active,1,,,REF123,2
+CUST4173,Jane Smith,45,,,9123456780,123 St,Chicago,,USA,10001,,5/5/2023,100,Inactive,3,English,,REF123,3
+,Alice,40,Male,,,789 Blvd,Chicago,,,90001,6/15/2020,,,Inactive,,English,Desktop,REF456,
+CUST4848,Jane Smith,30,F,user140@example.com,9876543210,789 Blvd,Los Angeles,NY,,90001,,5/5/2023,,,4,French,,REF123,0
+CUST6010,Sam,,,,9123456780,456 Ave,New York,TX,USA,60601,1/1/2021,,1000,,,Spanish,,,
+CUST5850,John Doe,35,Other,user348@example.com,,,Los Angeles,CA,USA,60601,11/20/2019,,0,Cancelled,3,,,REF456,
+CUST4191,,35,F,user348@example.com,,,Los Angeles,,US,,6/15/2020,5/5/2023,,Cancelled,1,English,,REF456,
+CUST8264,Alice,35,Other,user698@example.com,9988776655,789 Blvd,Chicago,IL,,,6/15/2020,,0,,,,Desktop,REF123,0
+CUST6402,,,Other,user441@example.com,9988776655,456 Ave,Los Angeles,NY,,60601,11/20/2019,,,Active,3,,,REF123,0
+CUST9672,,30,F,user548@example.com,,,New York,,US,60601,11/20/2019,,250.5,Active,1,,,,2
+CUST5240,Sam,30,Female,user227@example.com,9876543210,,Houston,TX,USA,,1/1/2021,12/1/2022,0,Cancelled,4,English,Desktop,REF123,
+CUST6957,Jane Smith,35,Other,user554@example.com,9123456780,,,IL,,90001,11/20/2019,,,Active,2,,Mobile,,
+CUST5471,Alice,25,F,user683@example.com,9988776655,,,CA,,,1/1/2021,5/5/2023,,,4,,,,0
+CUST6943,,30,Female,user719@example.com,9123456780,,,TX,,,11/20/2019,12/1/2022,250.5,Cancelled,,Spanish,Tablet,REF456,2
+,John Doe,35,Other,user58@example.com,,123 St,Chicago,CA,,90001,6/15/2020,5/5/2023,100,Active,,French,,REF456,
+CUST6303,,40,,user680@example.com,,,Los Angeles,NY,,,,,0,,4,French,Tablet,,3
+CUST7328,,50,,user338@example.com,,,Houston,,USA,60601,1/1/2021,,1000,,,English,,,0
+CUST9565,Alice,,Female,user192@example.com,,456 Ave,Houston,TX,,60601,,,,Cancelled,5,,,REF456,
+CUST7787,,25,Female,user705@example.com,,,Houston,CA,USA,90001,1/1/2021,5/5/2023,250.5,,5,,,REF123,3
+CUST5021,Alice,50,Male,user265@example.com,,123 St,Houston,IL,US,,,5/5/2023,0,,3,,,,2
+CUST5350,Alice,25,M,user245@example.com,9123456780,,Chicago,NY,US,60601,,,1000,Cancelled,5,Spanish,Mobile,REF456,
+CUST5225,Alice,45,M,,9988776655,789 Blvd,Houston,NY,,60601,,5/5/2023,,Inactive,,English,,,1
+CUST6206,Alice,40,Male,user861@example.com,9123456780,,Chicago,,USA,,,5/5/2023,,,1,Spanish,Tablet,,3
+CUST5605,John Doe,40,M,user272@example.com,,,New York,,US,,6/15/2020,,0,Inactive,4,Spanish,Desktop,REF456,0
+CUST8865,John Doe,50,F,user669@example.com,9123456780,789 Blvd,New York,,,,1/1/2021,12/1/2022,1000,Cancelled,4,,Tablet,,2
+,,25,Female,,9123456780,123 St,Chicago,TX,US,60601,11/20/2019,12/1/2022,0,,1,English,Tablet,,2
+CUST6473,,45,M,user420@example.com,9123456780,789 Blvd,Houston,TX,USA,60601,,12/1/2022,100,,1,English,,,2
+CUST9749,,30,Other,user282@example.com,,,Los Angeles,IL,US,10001,6/15/2020,5/5/2023,1000,,1,Spanish,,,2
+CUST1540,,45,Female,user238@example.com,,789 Blvd,Houston,NY,US,10001,,,,Active,5,Spanish,,,3
+CUST8374,John Doe,25,M,user227@example.com,,,New York,NY,US,,,,0,Active,5,English,,,
+CUST5081,Alice,35,F,,,,Houston,TX,US,,11/20/2019,,250.5,Active,5,,Mobile,,
+CUST8289,Sam,30,M,user921@example.com,,,,CA,USA,10001,11/20/2019,12/1/2022,0,Inactive,,French,,,1
+CUST3133,,50,Other,user718@example.com,9123456780,,New York,CA,USA,,,5/5/2023,0,Cancelled,,,Desktop,REF123,2
+CUST4557,,50,Other,,9123456780,,Houston,,,,,,,Inactive,,,Mobile,REF123,2
+CUST4295,Sam,50,Female,user650@example.com,,,,IL,,90001,11/20/2019,5/5/2023,100,,3,English,,,
+,Sam,25,Other,,,789 Blvd,Chicago,NY,USA,,1/1/2021,5/5/2023,,Cancelled,4,French,Desktop,,3
+CUST4153,John Doe,40,Male,user198@example.com,,456 Ave,New York,NY,USA,10001,1/1/2021,,100,Active,2,English,Tablet,REF123,3
+CUST8062,,50,M,user705@example.com,,,,,,90001,1/1/2021,5/5/2023,0,,5,Spanish,Tablet,,3
+CUST9908,Alice,40,F,user498@example.com,9123456780,,Los Angeles,NY,,60601,6/15/2020,12/1/2022,1000,,5,,,,
+CUST7246,Alice,25,M,user245@example.com,9876543210,,,,,,,,0,Cancelled,2,French,,REF123,3
+CUST6949,,30,Male,,9876543210,123 St,Chicago,NY,USA,10001,,,100,,5,English,,,
+CUST3698,,40,,user710@example.com,,456 Ave,,TX,,,11/20/2019,,250.5,Active,1,Spanish,Mobile,REF456,
+CUST1590,Jane Smith,35,Female,user83@example.com,9123456780,,Los Angeles,NY,,,11/20/2019,,,,3,English,,,3
+CUST5299,,30,Female,,9876543210,789 Blvd,New York,TX,,,1/1/2021,,,,1,English,Tablet,REF456,
+CUST9617,Alice,35,M,user752@example.com,,789 Blvd,Houston,,,,6/15/2020,,250.5,,3,English,Desktop,,
+CUST9435,,45,Other,user140@example.com,9876543210,789 Blvd,Chicago,CA,,,11/20/2019,12/1/2022,250.5,Inactive,2,French,,REF456,
+CUST3779,,35,,,,789 Blvd,,,US,60601,11/20/2019,5/5/2023,,Inactive,,French,,REF123,
+CUST4076,Alice,35,,user193@example.com,9876543210,789 Blvd,Los Angeles,,,90001,1/1/2021,,,Cancelled,2,Spanish,,REF456,3
+CUST9400,John Doe,,F,,9988776655,456 Ave,New York,NY,US,,,,0,,5,,,REF456,
+CUST6635,Jane Smith,,M,user55@example.com,,789 Blvd,Houston,CA,US,,,5/5/2023,1000,,3,English,,,3
+CUST6624,,30,F,user448@example.com,9876543210,456 Ave,New York,,,90001,,12/1/2022,250.5,Cancelled,3,French,Tablet,REF123,0
+CUST3684,John Doe,,M,user306@example.com,9876543210,,Los Angeles,NY,,90001,6/15/2020,,1000,Cancelled,3,English,Mobile,,3
+CUST8788,,40,Female,user753@example.com,,,Chicago,TX,,,6/15/2020,5/5/2023,250.5,Cancelled,,French,Mobile,REF456,
+CUST9669,Alice,,M,user609@example.com,9876543210,123 St,Los Angeles,TX,,60601,1/1/2021,12/1/2022,1000,Active,4,French,,REF123,3
+CUST7372,Jane Smith,,,user383@example.com,,456 Ave,Houston,NY,,,1/1/2021,5/5/2023,,,5,Spanish,Tablet,REF123,
+CUST1394,Sam,40,F,user576@example.com,,,Houston,TX,USA,90001,1/1/2021,5/5/2023,,Active,5,French,,REF123,3
+CUST6480,,30,M,user481@example.com,9988776655,,,CA,USA,,6/15/2020,5/5/2023,250.5,,4,Spanish,Tablet,,0
+CUST7983,,40,M,user53@example.com,9876543210,,,CA,,,6/15/2020,,,,,Spanish,Desktop,REF456,3
+CUST2852,Alice,45,Female,user351@example.com,,123 St,New York,TX,,60601,,5/5/2023,250.5,,,,Tablet,,
+CUST2667,Alice,30,Male,user289@example.com,9988776655,456 Ave,New York,CA,US,,,,250.5,Cancelled,1,,Tablet,,2
+CUST1532,,35,,user774@example.com,9988776655,789 Blvd,,CA,US,,,,,,5,French,Tablet,,2
+CUST7361,Jane Smith,30,Female,user393@example.com,,789 Blvd,Houston,NY,,,11/20/2019,,,,2,English,,,0
+CUST6495,Sam,35,Female,user723@example.com,,,New York,IL,,90001,1/1/2021,5/5/2023,250.5,,4,Spanish,Tablet,REF123,0
+CUST2043,Jane Smith,25,Other,user330@example.com,9988776655,456 Ave,,CA,,10001,11/20/2019,5/5/2023,,Inactive,1,,Desktop,,0
+CUST4509,Jane Smith,,,,,456 Ave,New York,IL,USA,,6/15/2020,12/1/2022,1000,Active,2,,Desktop,REF123,3
+CUST4474,,35,Female,user654@example.com,9123456780,123 St,Los Angeles,IL,,10001,6/15/2020,,1000,Inactive,4,,Mobile,,1
+CUST1793,,45,F,user38@example.com,9988776655,,,,US,,1/1/2021,5/5/2023,1000,,4,,Tablet,REF123,1
+CUST9606,Alice,35,Female,user328@example.com,9988776655,,Los Angeles,NY,,,1/1/2021,,1000,,1,,,,
+CUST8037,John Doe,40,M,user713@example.com,,,Los Angeles,,USA,90001,6/15/2020,5/5/2023,250.5,Cancelled,4,,Mobile,,
+,Jane Smith,40,Other,user463@example.com,,456 Ave,,IL,USA,10001,1/1/2021,,1000,Cancelled,5,,Tablet,,3
+CUST6031,Alice,35,Other,user700@example.com,,789 Blvd,New York,IL,US,60601,,5/5/2023,,Cancelled,5,English,Tablet,,
+CUST3782,Sam,45,Other,user500@example.com,9988776655,789 Blvd,Los Angeles,TX,USA,,1/1/2021,,0,,1,French,,REF123,1
+CUST2278,John Doe,,F,,9988776655,456 Ave,Los Angeles,,,,6/15/2020,12/1/2022,1000,,4,,Mobile,REF123,
+CUST4042,John Doe,35,Female,user301@example.com,,123 St,,,,,6/15/2020,,250.5,Active,3,,Desktop,REF456,
+CUST2285,Alice,,Female,user668@example.com,9988776655,,Houston,NY,,60601,11/20/2019,,250.5,Inactive,4,,,,
+CUST4908,Sam,30,Other,,9988776655,123 St,New York,IL,,60601,1/1/2021,12/1/2022,100,Active,5,Spanish,Tablet,REF456,1
+CUST4136,,,Other,,9988776655,,,TX,,,,5/5/2023,,,1,,,REF123,3
+CUST6678,Jane Smith,,Male,,,123 St,Chicago,NY,,60601,11/20/2019,,1000,,,English,Tablet,,3
+CUST9518,Sam,25,Male,user75@example.com,9123456780,456 Ave,Houston,IL,US,,6/15/2020,5/5/2023,100,Active,4,Spanish,Mobile,REF456,3
+CUST5641,Sam,,Male,user484@example.com,9876543210,456 Ave,New York,TX,USA,10001,1/1/2021,5/5/2023,1000,,,French,Desktop,,3
+CUST8295,,40,F,,,456 Ave,,,US,60601,11/20/2019,,1000,,1,English,Mobile,,0
+CUST5332,Alice,40,Male,user115@example.com,,,Houston,TX,,90001,11/20/2019,,,,4,French,Mobile,REF123,3
+CUST8562,Alice,25,M,user486@example.com,9123456780,,New York,NY,,60601,11/20/2019,,100,,2,,Desktop,,0
+CUST5608,Sam,,M,user356@example.com,9988776655,123 St,Houston,,,10001,11/20/2019,5/5/2023,,Active,3,French,,,
+CUST2677,,50,F,user865@example.com,9876543210,456 Ave,Houston,CA,USA,60601,6/15/2020,12/1/2022,250.5,Inactive,5,English,,,1
+CUST7280,Sam,45,Female,user24@example.com,9988776655,789 Blvd,Houston,NY,US,,11/20/2019,12/1/2022,100,Active,5,,Tablet,,2
+CUST5248,Jane Smith,35,F,user631@example.com,9876543210,,New York,,USA,,6/15/2020,12/1/2022,,Active,,,Mobile,REF123,2
+CUST8505,Jane Smith,25,Male,user965@example.com,9123456780,456 Ave,Los Angeles,,US,,1/1/2021,,250.5,,3,,Desktop,REF123,0
+CUST4688,Jane Smith,40,,user400@example.com,9123456780,789 Blvd,Houston,,US,,,12/1/2022,,Inactive,4,,Tablet,REF123,1
+CUST5154,John Doe,30,Male,,9123456780,,,CA,,10001,11/20/2019,12/1/2022,100,Inactive,,Spanish,Mobile,,2
+CUST3935,,30,Male,user662@example.com,9123456780,,New York,,,60601,6/15/2020,5/5/2023,100,Active,3,,Tablet,,1
+CUST2730,John Doe,40,Male,user248@example.com,9123456780,123 St,,NY,,,6/15/2020,,1000,Active,3,French,Mobile,,3
+CUST3330,Jane Smith,30,Other,user682@example.com,9876543210,456 Ave,Los Angeles,NY,US,,11/20/2019,12/1/2022,0,Inactive,5,French,,REF123,
+CUST4590,Jane Smith,45,Female,user487@example.com,9123456780,,,NY,,10001,11/20/2019,5/5/2023,0,Active,3,English,Desktop,,1
+CUST5612,Alice,35,M,user273@example.com,9988776655,,New York,CA,USA,,6/15/2020,12/1/2022,1000,Active,2,,,,
+CUST4703,,30,Male,user680@example.com,9876543210,123 St,Los Angeles,TX,USA,,6/15/2020,,0,Inactive,4,Spanish,Tablet,,
+CUST5967,Sam,50,Male,,,123 St,Chicago,,USA,60601,6/15/2020,5/5/2023,,,,,,,3
+CUST3467,Alice,40,Other,user428@example.com,9988776655,,Los Angeles,,,10001,,12/1/2022,,,1,English,,REF123,1
+CUST6070,Alice,35,,user8@example.com,,789 Blvd,Houston,,US,10001,1/1/2021,,100,Cancelled,1,English,Mobile,,2
+CUST3777,Sam,45,Other,user321@example.com,9876543210,123 St,New York,IL,,60601,,,1000,,,Spanish,Desktop,REF456,2
+CUST5423,John Doe,25,Other,user737@example.com,,,New York,NY,USA,10001,,5/5/2023,0,,,,Mobile,REF123,
+CUST4360,Alice,40,Other,user41@example.com,9876543210,789 Blvd,Los Angeles,CA,,,11/20/2019,,1000,Cancelled,,English,Tablet,,1
+CUST5482,Sam,40,F,user974@example.com,9123456780,,Houston,NY,USA,,,5/5/2023,250.5,,2,French,,REF123,2
+CUST7003,Sam,50,,user817@example.com,,,Chicago,CA,USA,10001,6/15/2020,5/5/2023,1000,Cancelled,3,French,Mobile,REF123,
+CUST7673,Sam,50,M,user844@example.com,,,New York,TX,,10001,11/20/2019,12/1/2022,250.5,,2,English,Desktop,REF123,0
+CUST6509,John Doe,25,Other,user182@example.com,,,,TX,US,,11/20/2019,5/5/2023,250.5,,2,,,REF123,3
+CUST5344,Jane Smith,45,Other,,,,Los Angeles,NY,US,60601,11/20/2019,5/5/2023,100,Cancelled,,French,Desktop,,
+CUST5218,Alice,,M,,9123456780,456 Ave,,,USA,10001,11/20/2019,,250.5,Inactive,1,French,Tablet,,3
+CUST2011,John Doe,45,Female,,9988776655,,,TX,,60601,,,0,Active,5,French,Desktop,REF456,0
+CUST5573,,25,Male,,9988776655,,Houston,CA,USA,10001,,5/5/2023,0,,2,,Tablet,,
+CUST4045,,45,M,user83@example.com,9123456780,789 Blvd,Los Angeles,,US,60601,6/15/2020,5/5/2023,100,,,French,,,1
+CUST3517,,30,M,user222@example.com,,456 Ave,,TX,US,10001,11/20/2019,,1000,,3,French,Tablet,,1
+CUST7654,Sam,40,Female,user561@example.com,,789 Blvd,Los Angeles,,,60601,11/20/2019,5/5/2023,250.5,Active,,French,Desktop,,0
+CUST6144,Sam,,Female,,9988776655,789 Blvd,Chicago,,US,60601,,12/1/2022,0,,3,,Mobile,REF123,0
+CUST3385,John Doe,,F,,9988776655,123 St,Chicago,NY,,60601,,5/5/2023,250.5,,2,English,Tablet,,
+CUST8044,,45,Other,user237@example.com,9123456780,456 Ave,Houston,,,,,,,,3,French,Tablet,REF123,
+CUST1485,Sam,30,F,user688@example.com,9988776655,,Los Angeles,,US,,,12/1/2022,,Active,2,French,,REF123,0
+CUST6172,Jane Smith,,M,,9988776655,,Houston,NY,USA,60601,,,0,Active,4,,,REF123,
+CUST4817,Jane Smith,35,M,,,,Los Angeles,TX,,,,,1000,Cancelled,5,French,,,
+CUST9700,Sam,,Female,user395@example.com,9988776655,456 Ave,Chicago,NY,,,11/20/2019,,250.5,,2,English,Tablet,,1
+CUST6243,,40,Female,user771@example.com,,456 Ave,Houston,TX,,,11/20/2019,12/1/2022,0,Active,5,English,Tablet,,2
+CUST1336,,40,Other,user28@example.com,9988776655,456 Ave,Chicago,,,,1/1/2021,,100,,5,,,REF456,0
+CUST2021,John Doe,35,,user970@example.com,,123 St,Houston,TX,US,60601,1/1/2021,,1000,,4,,Mobile,,
+CUST7585,Alice,25,Male,,9988776655,123 St,,TX,US,,11/20/2019,5/5/2023,,Cancelled,3,Spanish,Mobile,,
+CUST4127,Sam,50,Female,user772@example.com,9988776655,,Los Angeles,NY,,60601,6/15/2020,,1000,Active,3,English,,REF123,1
+CUST3601,Sam,25,Other,user365@example.com,9876543210,,Chicago,CA,US,60601,1/1/2021,5/5/2023,250.5,,4,English,Desktop,,
+,Alice,35,,,9876543210,,,,US,10001,11/20/2019,,1000,Active,3,French,,REF456,
+CUST9451,,30,Female,user250@example.com,9988776655,,Los Angeles,,US,90001,,5/5/2023,250.5,,1,French,,REF123,2
+CUST9522,,45,M,,,456 Ave,Chicago,TX,,90001,11/20/2019,12/1/2022,100,,4,,,,3
+CUST9704,Jane Smith,,Other,user636@example.com,,,Chicago,TX,US,60601,6/15/2020,,1000,Inactive,5,,Tablet,REF456,
+CUST9392,,40,Female,,,789 Blvd,,,USA,60601,1/1/2021,5/5/2023,,,5,,Tablet,REF456,0
+CUST9579,Alice,45,M,user463@example.com,,789 Blvd,Houston,,,90001,,,100,,4,Spanish,,,2
+CUST8678,Jane Smith,,Female,user620@example.com,9876543210,,Houston,,,60601,1/1/2021,,250.5,Inactive,2,English,,,1
+CUST7132,Sam,25,M,,9123456780,123 St,Houston,NY,USA,10001,,12/1/2022,100,Cancelled,,English,Desktop,REF456,3
+CUST1043,,45,F,,,,Los Angeles,CA,,10001,6/15/2020,12/1/2022,0,,1,,Desktop,,
+CUST2988,,35,,user335@example.com,9876543210,456 Ave,New York,CA,,10001,,5/5/2023,,Inactive,4,,Tablet,REF456,1
+CUST3809,,25,M,user56@example.com,9876543210,123 St,Houston,IL,USA,,11/20/2019,5/5/2023,0,,5,French,Desktop,,0
+CUST9860,Alice,35,Male,user354@example.com,9988776655,456 Ave,Houston,TX,,10001,1/1/2021,,0,,1,,Tablet,,
+CUST2007,,35,Other,user710@example.com,9876543210,,Chicago,TX,,,6/15/2020,5/5/2023,1000,,2,Spanish,Desktop,,
+CUST9172,,30,F,user993@example.com,,456 Ave,Los Angeles,IL,,10001,,,100,,1,,Mobile,,
+CUST3515,Alice,50,M,user564@example.com,9876543210,789 Blvd,Los Angeles,IL,USA,60601,11/20/2019,5/5/2023,250.5,Inactive,5,Spanish,,,3
+CUST6271,Alice,30,M,user440@example.com,,,,TX,USA,,,,0,Active,5,French,Tablet,REF456,
+CUST2575,John Doe,35,F,user762@example.com,,,New York,TX,USA,10001,11/20/2019,12/1/2022,100,Active,2,,,REF123,
+CUST1692,Alice,25,Male,user219@example.com,9876543210,456 Ave,Houston,NY,,,11/20/2019,,100,Cancelled,5,French,,,0
+CUST8192,Jane Smith,45,Male,user836@example.com,,123 St,Houston,NY,,90001,11/20/2019,12/1/2022,250.5,Cancelled,4,French,Mobile,,3
+CUST4467,Sam,,F,user527@example.com,9988776655,789 Blvd,,IL,US,60601,11/20/2019,5/5/2023,0,Active,3,French,Tablet,,1
+CUST4880,,,Female,user523@example.com,9988776655,,,TX,,,6/15/2020,12/1/2022,,Inactive,,English,Desktop,REF123,0
+CUST1939,Alice,,F,,,456 Ave,Chicago,IL,,,,12/1/2022,,,,English,Desktop,REF456,2
+CUST7334,,45,Male,user246@example.com,9123456780,,Chicago,CA,,90001,,5/5/2023,250.5,Active,,Spanish,Desktop,,1
+CUST8447,John Doe,50,,,9988776655,456 Ave,Los Angeles,NY,US,60601,1/1/2021,12/1/2022,0,Cancelled,3,,Tablet,,
+,John Doe,45,Male,user813@example.com,9876543210,,Chicago,,,,1/1/2021,12/1/2022,1000,,1,English,Tablet,REF456,
+CUST1204,Jane Smith,30,M,user629@example.com,9876543210,123 St,Chicago,IL,,,11/20/2019,12/1/2022,0,Inactive,,,,REF123,3
+CUST2244,,45,F,user610@example.com,9876543210,123 St,Houston,TX,,,1/1/2021,,0,,5,,Tablet,,3
+CUST3132,John Doe,40,,user218@example.com,9876543210,123 St,Chicago,CA,,10001,1/1/2021,5/5/2023,,Cancelled,4,English,Desktop,REF456,1
+CUST3662,Sam,35,Other,user519@example.com,,456 Ave,New York,TX,,,11/20/2019,,250.5,,2,English,,REF456,
+CUST4954,Alice,30,,user404@example.com,9123456780,123 St,Los Angeles,,,60601,6/15/2020,12/1/2022,100,,1,French,,REF456,3
+CUST7095,,45,Other,user570@example.com,9876543210,123 St,New York,IL,,,,,250.5,Inactive,,Spanish,,,
+CUST2893,Sam,45,F,,9988776655,789 Blvd,Houston,TX,,60601,6/15/2020,,100,,4,,Mobile,REF456,
+CUST9122,John Doe,25,F,user379@example.com,,456 Ave,Chicago,IL,US,,11/20/2019,5/5/2023,1000,,1,,Desktop,,
+CUST3720,,50,,user932@example.com,9123456780,,,,,,11/20/2019,,1000,,2,,,,
+CUST3293,John Doe,30,Female,,,,Los Angeles,,USA,,1/1/2021,12/1/2022,250.5,,3,,,,0
+CUST9081,John Doe,,Female,,,123 St,Houston,,,60601,11/20/2019,,0,Cancelled,,,Tablet,,0
+CUST2623,Jane Smith,45,Male,user900@example.com,,,Houston,IL,,10001,11/20/2019,,100,,,,,REF123,
+CUST4046,John Doe,50,F,user694@example.com,9876543210,789 Blvd,,CA,US,,1/1/2021,5/5/2023,100,,5,,Desktop,REF456,0
+CUST8576,,,F,,,789 Blvd,New York,TX,,90001,6/15/2020,12/1/2022,250.5,Active,4,Spanish,Mobile,REF123,2
+CUST2983,John Doe,25,Female,user338@example.com,,789 Blvd,New York,NY,,,1/1/2021,5/5/2023,100,Cancelled,5,,Mobile,REF456,
+CUST9298,Alice,35,,user883@example.com,9876543210,123 St,,CA,,,,,100,,4,French,,,3
+CUST1400,Sam,30,Female,,9988776655,123 St,,,US,90001,6/15/2020,12/1/2022,100,Active,,English,Desktop,REF123,1
+CUST7888,Sam,,Other,user590@example.com,,789 Blvd,New York,TX,US,90001,6/15/2020,,0,,,,Desktop,,3
+CUST2561,,50,M,user949@example.com,9876543210,789 Blvd,New York,IL,USA,,6/15/2020,,0,Inactive,1,,Desktop,REF456,2
+CUST9155,Jane Smith,30,,,9123456780,,Chicago,IL,,,1/1/2021,,0,,4,French,,,3
+CUST1387,Jane Smith,40,,user396@example.com,9988776655,456 Ave,,IL,US,60601,1/1/2021,,100,,3,English,,,1
+CUST7651,,35,,user962@example.com,9123456780,456 Ave,Chicago,NY,,90001,6/15/2020,,250.5,Cancelled,3,French,Tablet,,0
+CUST3611,,40,Female,user159@example.com,9123456780,,Chicago,IL,,60601,,12/1/2022,100,Inactive,5,French,,REF456,3
+CUST5403,,40,Other,user651@example.com,,789 Blvd,Los Angeles,IL,,10001,1/1/2021,,0,,4,English,Mobile,REF123,3
+CUST7408,Alice,45,Female,,9988776655,,New York,,,,6/15/2020,5/5/2023,1000,Inactive,1,Spanish,,,3
+CUST6070,Jane Smith,35,Female,user870@example.com,9876543210,,,NY,,60601,1/1/2021,,100,Inactive,1,,Mobile,,1
+CUST4191,,50,,user179@example.com,9988776655,,New York,CA,,90001,11/20/2019,12/1/2022,0,,3,English,Mobile,,0
+CUST6389,Alice,,F,,9876543210,789 Blvd,Houston,,USA,90001,11/20/2019,,0,Cancelled,3,French,Mobile,REF456,0
+CUST8064,,40,,user681@example.com,9988776655,,Los Angeles,,US,60601,,,100,Inactive,,,Mobile,,1
+CUST3781,Sam,30,Male,,,789 Blvd,New York,TX,,10001,,5/5/2023,100,,3,Spanish,Mobile,,1
+CUST4503,,40,Male,user987@example.com,9123456780,123 St,Chicago,NY,,90001,1/1/2021,,250.5,Inactive,4,Spanish,Desktop,REF456,
+CUST4566,,50,Other,,,789 Blvd,,,,60601,,,250.5,Inactive,,Spanish,Desktop,REF456,0
+CUST8190,Alice,30,F,user681@example.com,,123 St,Chicago,NY,US,,6/15/2020,5/5/2023,0,Active,,,Desktop,,2
+CUST2700,,,F,user506@example.com,9988776655,,Houston,NY,USA,60601,,5/5/2023,0,,5,,Mobile,,0
+CUST2016,John Doe,30,Other,user575@example.com,,,New York,IL,,10001,1/1/2021,,1000,Active,4,Spanish,Mobile,REF456,2
+CUST7585,Alice,40,M,user969@example.com,9876543210,789 Blvd,Chicago,TX,USA,,6/15/2020,5/5/2023,,Active,4,English,,,
+CUST9802,,35,M,user287@example.com,,123 St,Chicago,,US,,,5/5/2023,0,,3,,Tablet,REF456,
+CUST6999,,25,F,user204@example.com,9876543210,,,,,10001,,12/1/2022,100,,3,Spanish,,REF123,
+,Alice,40,,user244@example.com,9876543210,,Chicago,IL,,60601,,,1000,,,French,Desktop,,3
+CUST3127,Alice,40,,user148@example.com,,456 Ave,New York,,,90001,1/1/2021,12/1/2022,0,,2,Spanish,,,
+CUST8643,Jane Smith,30,Female,user191@example.com,9123456780,,Houston,,,,1/1/2021,12/1/2022,1000,,1,French,,REF456,3
+CUST3289,Jane Smith,40,Female,user543@example.com,9123456780,,New York,,,,6/15/2020,12/1/2022,,Active,4,French,,,2
+CUST4858,,40,Other,user531@example.com,9876543210,123 St,Houston,TX,,10001,1/1/2021,5/5/2023,100,,2,French,,,
+CUST2479,Sam,30,Male,,9876543210,,Houston,,USA,,,,100,,,French,Mobile,,
+CUST8936,Jane Smith,40,M,user806@example.com,9988776655,,New York,NY,,90001,11/20/2019,,1000,Cancelled,4,Spanish,Mobile,REF456,3
+CUST8059,,25,M,user808@example.com,9988776655,123 St,New York,,USA,90001,6/15/2020,5/5/2023,0,Inactive,3,,Mobile,REF456,0
+CUST7928,Sam,25,Other,user144@example.com,9876543210,,Chicago,IL,US,,1/1/2021,12/1/2022,1000,Inactive,3,French,Desktop,,3
+CUST3317,,45,Female,user562@example.com,,789 Blvd,,,,90001,11/20/2019,,250.5,,1,English,,REF456,2
+CUST5705,John Doe,40,Male,user277@example.com,,789 Blvd,Houston,,,60601,6/15/2020,12/1/2022,,,5,French,Tablet,REF456,0
+CUST4491,,45,Male,,,456 Ave,Los Angeles,TX,,10001,11/20/2019,,1000,,5,English,,,1
+,John Doe,25,,,,456 Ave,,TX,US,10001,1/1/2021,,250.5,,1,Spanish,,REF456,2
+,Sam,50,,user254@example.com,9876543210,789 Blvd,,,USA,90001,,,,,1,,,,2
+CUST7898,Sam,30,F,user187@example.com,9876543210,,Chicago,,,60601,11/20/2019,,250.5,,5,,Desktop,REF123,2
+CUST8775,Jane Smith,35,M,user90@example.com,9988776655,789 Blvd,Los Angeles,NY,US,,1/1/2021,12/1/2022,1000,Cancelled,5,French,Mobile,,2
+CUST5698,Sam,50,,user726@example.com,9876543210,789 Blvd,,NY,USA,,6/15/2020,5/5/2023,0,,2,English,,REF123,
+CUST4076,Alice,40,Other,user913@example.com,9876543210,123 St,Chicago,,,10001,11/20/2019,12/1/2022,0,Cancelled,3,,Tablet,REF123,2
+CUST4381,Sam,50,,user262@example.com,9123456780,123 St,Chicago,IL,,,6/15/2020,,250.5,,1,,,REF123,0
+CUST7454,,50,M,user617@example.com,,789 Blvd,Chicago,,US,10001,,12/1/2022,0,,1,English,Desktop,REF123,3
+CUST1846,,50,Other,user42@example.com,,,,NY,,,11/20/2019,12/1/2022,0,Inactive,5,English,Desktop,REF456,3
+CUST5614,Alice,35,,user685@example.com,9876543210,789 Blvd,,CA,US,,11/20/2019,12/1/2022,0,Inactive,2,Spanish,Desktop,REF456,
+CUST4995,Jane Smith,30,M,user595@example.com,,,Los Angeles,IL,,10001,6/15/2020,,0,Inactive,5,,Mobile,,3
+CUST4357,John Doe,35,,user529@example.com,9876543210,123 St,Los Angeles,CA,US,,1/1/2021,12/1/2022,0,,1,English,Desktop,,0
+CUST5093,,50,Other,user400@example.com,9123456780,456 Ave,Chicago,,,10001,11/20/2019,,0,,1,English,Tablet,,3
+CUST6183,,50,M,user280@example.com,,456 Ave,Chicago,,US,,11/20/2019,,,Inactive,1,French,Tablet,,1
+CUST5634,,25,,user760@example.com,,123 St,Houston,,USA,60601,1/1/2021,,1000,,4,,Desktop,,0
+CUST6799,Sam,25,,user732@example.com,,,New York,IL,,,,,100,Cancelled,1,Spanish,,,
+CUST7790,Alice,,,user737@example.com,,,,CA,,,,12/1/2022,,Active,5,French,,REF456,1
+CUST7234,Jane Smith,,Male,user348@example.com,9876543210,456 Ave,Houston,IL,,,,,1000,,4,Spanish,Tablet,,2
+CUST7892,Sam,30,F,user598@example.com,,123 St,Houston,TX,,90001,11/20/2019,,1000,,2,,Mobile,REF456,2
+CUST2216,,,M,user954@example.com,9123456780,123 St,New York,,US,,,12/1/2022,1000,,4,,Mobile,REF456,3
+CUST9516,Jane Smith,,M,user736@example.com,,456 Ave,Chicago,TX,USA,60601,11/20/2019,12/1/2022,100,Active,,,,REF123,0
+CUST3494,Sam,50,Other,user534@example.com,9876543210,,New York,,,,,12/1/2022,100,,5,,,,
+CUST7957,Sam,30,M,user162@example.com,9876543210,456 Ave,Chicago,TX,,,11/20/2019,12/1/2022,100,Active,2,French,Mobile,REF123,
+CUST5678,,30,M,user241@example.com,9988776655,,,IL,US,,6/15/2020,,1000,,,,Tablet,REF123,2
+CUST5960,Sam,50,,,,123 St,Chicago,,,10001,6/15/2020,,,Cancelled,2,French,,REF456,
+CUST4375,Jane Smith,,F,,,,New York,IL,,,11/20/2019,,,,,,Tablet,REF456,1
+CUST1224,John Doe,,M,user410@example.com,9988776655,456 Ave,Los Angeles,CA,,60601,,5/5/2023,100,Cancelled,5,French,,,2
+CUST7335,Jane Smith,40,F,user484@example.com,9988776655,456 Ave,Houston,CA,US,10001,,5/5/2023,250.5,,4,Spanish,Tablet,,2
+CUST6122,Alice,45,Male,user890@example.com,9876543210,,Los Angeles,,,,11/20/2019,,100,Active,,French,Mobile,,1
+,Jane Smith,35,Female,user180@example.com,9988776655,,Chicago,TX,,60601,1/1/2021,,100,Active,5,,Desktop,,
+CUST6053,Jane Smith,50,Male,user8@example.com,,,Chicago,,,10001,,5/5/2023,0,,5,,Mobile,REF456,1
+CUST1285,,50,Male,user256@example.com,,,Los Angeles,NY,US,,6/15/2020,,250.5,Cancelled,4,French,Tablet,REF456,
+CUST8689,Jane Smith,50,F,user910@example.com,9123456780,,Los Angeles,TX,USA,,,,100,Cancelled,,English,,,3
+CUST5908,Jane Smith,25,Male,,,,Los Angeles,TX,USA,10001,6/15/2020,5/5/2023,0,Cancelled,3,,,REF456,
+CUST6955,,50,,,9123456780,789 Blvd,New York,,USA,60601,1/1/2021,,,Active,5,,Tablet,,
+CUST2787,Sam,40,Other,user46@example.com,9988776655,789 Blvd,Chicago,,,60601,11/20/2019,,0,Active,1,,Mobile,REF123,
+CUST9869,John Doe,,Male,,9876543210,,Los Angeles,,,,11/20/2019,5/5/2023,250.5,Active,5,,Mobile,REF456,3
+CUST7218,Sam,30,Other,user819@example.com,,123 St,New York,,US,10001,11/20/2019,,1000,Cancelled,3,,Tablet,,
+CUST8936,,40,F,user841@example.com,,456 Ave,Chicago,IL,,,11/20/2019,12/1/2022,100,Cancelled,1,English,Tablet,,0
+CUST8580,Jane Smith,45,,user319@example.com,,,Los Angeles,,,,6/15/2020,,100,Inactive,4,Spanish,Desktop,,
+CUST6691,John Doe,35,Male,user795@example.com,9876543210,,,,US,60601,6/15/2020,,100,,5,,,REF123,0
+CUST3824,John Doe,50,Male,user982@example.com,9123456780,456 Ave,,,US,60601,6/15/2020,12/1/2022,0,,3,English,Desktop,,3
+CUST1392,,35,F,user701@example.com,,456 Ave,Chicago,,,90001,1/1/2021,,100,Cancelled,1,,,REF456,3
+CUST5963,Alice,40,Male,user427@example.com,,123 St,,CA,,,1/1/2021,,0,Cancelled,3,English,,,0
+CUST1669,Alice,30,,user212@example.com,9876543210,789 Blvd,New York,IL,,10001,6/15/2020,,100,,1,,,REF456,
+CUST4982,John Doe,50,Male,user195@example.com,,123 St,New York,CA,US,90001,1/1/2021,,1000,,2,English,Mobile,,
+CUST5711,John Doe,30,Other,user265@example.com,,123 St,Chicago,,,,11/20/2019,,250.5,Cancelled,2,English,Tablet,,
+CUST2554,,40,M,user865@example.com,9876543210,,,CA,USA,10001,6/15/2020,,1000,Cancelled,4,Spanish,Desktop,REF123,2
+CUST2333,Sam,,,user783@example.com,,789 Blvd,New York,,,90001,6/15/2020,,100,,4,French,Desktop,,2
+CUST2282,John Doe,25,Other,,9988776655,456 Ave,Chicago,IL,,,1/1/2021,12/1/2022,100,Inactive,5,,Mobile,,2
+CUST5062,Sam,30,Female,user787@example.com,9876543210,789 Blvd,,TX,,90001,11/20/2019,,100,Inactive,5,English,Tablet,,
+CUST9030,Sam,30,,user519@example.com,9876543210,789 Blvd,Houston,IL,USA,60601,6/15/2020,,,Inactive,5,French,,,
+,John Doe,,Female,user421@example.com,,456 Ave,Los Angeles,NY,,90001,,,,Cancelled,2,,,REF123,1
+CUST1121,Jane Smith,45,,user960@example.com,9123456780,,Houston,NY,,10001,6/15/2020,,100,Inactive,5,French,Desktop,,2
+CUST6142,Sam,40,Male,user277@example.com,9988776655,,Los Angeles,NY,US,90001,6/15/2020,,1000,Inactive,1,,,REF456,
+CUST7083,Jane Smith,35,Other,user85@example.com,9876543210,789 Blvd,,NY,US,60601,6/15/2020,,0,,,English,,REF456,0
+CUST7193,Jane Smith,25,Other,user924@example.com,9123456780,789 Blvd,,TX,,,,,250.5,Inactive,5,,,REF123,
+CUST5785,Jane Smith,,,,,456 Ave,Los Angeles,TX,,,11/20/2019,12/1/2022,250.5,Cancelled,,,,REF123,2
+CUST4101,Alice,40,Other,user154@example.com,9988776655,,Houston,IL,US,90001,1/1/2021,12/1/2022,1000,,1,Spanish,Mobile,,3
+CUST1093,Sam,,Other,user982@example.com,,456 Ave,Chicago,TX,,10001,11/20/2019,5/5/2023,100,Active,2,Spanish,Desktop,,0
+CUST8052,Sam,35,F,,,,Chicago,IL,USA,,1/1/2021,5/5/2023,1000,Inactive,2,Spanish,,,2
+,,35,Female,user8@example.com,9988776655,456 Ave,Houston,,US,,,12/1/2022,0,,4,English,Tablet,,3
+CUST7433,Sam,45,,,9988776655,789 Blvd,New York,IL,USA,10001,11/20/2019,5/5/2023,100,Inactive,3,English,Mobile,REF456,3
+CUST7874,John Doe,30,F,user945@example.com,9123456780,,Chicago,NY,,90001,1/1/2021,5/5/2023,1000,Inactive,3,French,Tablet,,
+CUST7225,Alice,40,M,user539@example.com,,,Houston,,,90001,6/15/2020,12/1/2022,,Inactive,2,,Mobile,REF123,0
+CUST3052,Sam,35,Male,,9988776655,789 Blvd,,NY,US,,6/15/2020,,0,Inactive,,Spanish,Mobile,REF123,1
+,John Doe,40,M,,9876543210,,,NY,,,1/1/2021,,0,Cancelled,5,French,Mobile,,
+CUST2172,Sam,25,,,9876543210,,Chicago,TX,,60601,1/1/2021,,0,,5,English,Tablet,,
+CUST7821,,40,,user341@example.com,,789 Blvd,New York,TX,,10001,11/20/2019,,1000,Active,,French,Mobile,REF456,3
+CUST7541,John Doe,45,F,,9876543210,456 Ave,Houston,IL,,,11/20/2019,12/1/2022,0,Inactive,2,,,,
+CUST1996,,,Male,user128@example.com,,123 St,Chicago,IL,,10001,1/1/2021,12/1/2022,,Active,5,French,Desktop,REF456,
+CUST7924,Alice,45,M,user811@example.com,9876543210,123 St,,,USA,60601,,5/5/2023,1000,,3,English,,REF456,
+CUST7006,Sam,40,Male,user107@example.com,9876543210,789 Blvd,,TX,USA,90001,,5/5/2023,0,Cancelled,1,French,Tablet,REF123,
+CUST1316,Sam,45,M,user398@example.com,,,,,,60601,1/1/2021,,0,,3,French,Tablet,REF456,1
+,Alice,,,user492@example.com,9123456780,456 Ave,,,USA,10001,1/1/2021,,0,,3,English,,,
+CUST1809,Sam,40,Other,user330@example.com,9988776655,123 St,New York,,US,60601,1/1/2021,5/5/2023,,,2,Spanish,,REF456,1
+CUST2146,Sam,50,,user94@example.com,,456 Ave,Houston,,,,6/15/2020,,0,,4,,Mobile,REF456,0
+CUST8295,John Doe,50,,user271@example.com,,,Los Angeles,,USA,10001,6/15/2020,,,,4,,Desktop,REF123,1
+CUST5876,Jane Smith,45,Other,user573@example.com,,123 St,Chicago,,US,,11/20/2019,,,Active,,,Mobile,REF123,0
+CUST2546,,50,,user98@example.com,9876543210,789 Blvd,Chicago,CA,US,,6/15/2020,12/1/2022,250.5,Cancelled,3,,,REF456,3
+CUST5421,Sam,30,Male,,,123 St,Los Angeles,IL,US,90001,11/20/2019,5/5/2023,250.5,,2,Spanish,,REF123,3
+CUST5537,Alice,30,Other,user858@example.com,,,Chicago,IL,US,,1/1/2021,,250.5,Active,5,Spanish,,REF456,2
+CUST5012,Alice,35,M,,9988776655,,New York,,USA,90001,6/15/2020,,250.5,Active,2,English,Desktop,REF456,2
+CUST8320,Jane Smith,50,Female,user470@example.com,9123456780,,Houston,,,60601,1/1/2021,5/5/2023,250.5,Cancelled,2,,Mobile,,
+CUST5030,John Doe,50,Female,user157@example.com,,,,IL,,,6/15/2020,,0,,3,Spanish,,REF123,0
+CUST5683,John Doe,,Male,user23@example.com,,,Chicago,,,,11/20/2019,,0,,3,,Desktop,,1
+CUST3929,Sam,40,Other,user468@example.com,9988776655,,New York,,USA,10001,11/20/2019,12/1/2022,1000,Active,4,Spanish,,,3
+CUST7317,Alice,50,Other,user741@example.com,,789 Blvd,Houston,TX,US,,11/20/2019,12/1/2022,0,Inactive,2,French,Tablet,,
+CUST9418,Jane Smith,30,Female,user351@example.com,9123456780,123 St,Los Angeles,NY,,10001,1/1/2021,,0,Active,4,,,,2
+CUST6113,,,F,user839@example.com,9876543210,789 Blvd,Houston,NY,USA,60601,6/15/2020,12/1/2022,,Cancelled,5,French,Tablet,REF456,
+CUST4331,Alice,,Other,user208@example.com,9988776655,789 Blvd,Chicago,,,10001,6/15/2020,12/1/2022,1000,Inactive,2,French,,REF123,
+CUST5305,,25,,user518@example.com,,,Houston,IL,USA,,1/1/2021,,250.5,,1,English,,,3
+CUST2528,Alice,50,Female,user481@example.com,9123456780,456 Ave,Los Angeles,,,,1/1/2021,,100,,3,English,Tablet,REF123,2
+CUST4284,,35,M,user751@example.com,9123456780,123 St,Chicago,,US,,11/20/2019,,100,,2,,,,0
+CUST5382,John Doe,50,Female,user899@example.com,,,,CA,,10001,,,1000,,,French,,REF123,
+CUST1739,,25,M,user350@example.com,9123456780,,New York,,US,10001,6/15/2020,5/5/2023,250.5,Active,1,,Desktop,REF456,
+CUST6609,Jane Smith,50,,user103@example.com,9876543210,,New York,IL,USA,60601,,5/5/2023,100,,3,French,Mobile,REF123,3
+CUST3827,Alice,40,Male,user744@example.com,,456 Ave,Houston,TX,USA,60601,1/1/2021,5/5/2023,1000,,2,French,Desktop,REF123,
+CUST1622,Jane Smith,50,M,user360@example.com,,456 Ave,New York,,US,,1/1/2021,,250.5,,,Spanish,,,2
+CUST2720,,45,F,user433@example.com,9876543210,,Los Angeles,IL,,10001,,,250.5,Inactive,5,English,Desktop,REF123,2
+CUST1163,John Doe,35,Other,user24@example.com,9123456780,,Chicago,IL,,,11/20/2019,5/5/2023,1000,,,English,,REF456,
+CUST4498,,50,M,user631@example.com,9123456780,123 St,Chicago,CA,,60601,6/15/2020,5/5/2023,1000,,4,French,,REF123,
+CUST5922,,25,Female,user669@example.com,,,,,,,,,250.5,Active,1,French,Tablet,,2
+CUST7294,Sam,35,F,user362@example.com,9123456780,,Chicago,,,60601,11/20/2019,,250.5,Active,1,Spanish,Desktop,REF123,
+CUST1080,John Doe,40,,user235@example.com,9876543210,789 Blvd,New York,CA,USA,60601,11/20/2019,,100,Cancelled,4,,,,3
+CUST8979,Jane Smith,40,Female,user852@example.com,9988776655,456 Ave,New York,CA,USA,,11/20/2019,5/5/2023,0,Cancelled,2,French,,REF123,3
+CUST3329,Jane Smith,35,F,user872@example.com,9988776655,,Houston,TX,USA,,,12/1/2022,250.5,Cancelled,4,,,REF456,0
+CUST7484,Alice,25,,user808@example.com,9988776655,,New York,,US,60601,6/15/2020,12/1/2022,0,,,French,Tablet,,3
+CUST1881,Jane Smith,35,Female,user237@example.com,9988776655,123 St,Chicago,IL,,60601,1/1/2021,5/5/2023,1000,Inactive,3,,Tablet,,1
+CUST9864,,45,M,,,456 Ave,New York,IL,,60601,11/20/2019,,,,5,,Mobile,REF123,
+CUST9379,Jane Smith,50,Female,user961@example.com,9988776655,123 St,Chicago,TX,USA,90001,1/1/2021,5/5/2023,,,,Spanish,,REF123,
+CUST2927,,,F,user617@example.com,,789 Blvd,Houston,,USA,,11/20/2019,,1000,,4,,Mobile,REF456,
+CUST9626,Jane Smith,,F,user745@example.com,9123456780,123 St,Los Angeles,,,,11/20/2019,12/1/2022,0,Cancelled,5,French,Desktop,,
+CUST4945,,25,Female,user291@example.com,,456 Ave,Los Angeles,,,,,,,Cancelled,5,,Desktop,,1
+CUST7221,,25,Female,user118@example.com,9876543210,,,TX,,60601,1/1/2021,5/5/2023,1000,,4,Spanish,,,
+CUST8618,,25,M,user149@example.com,,123 St,New York,,,90001,11/20/2019,,250.5,Active,1,French,,,3
+CUST3054,Sam,30,F,,9876543210,789 Blvd,Los Angeles,,,10001,1/1/2021,5/5/2023,,,4,,,,0
+CUST5826,,50,F,user287@example.com,,789 Blvd,New York,IL,USA,60601,11/20/2019,5/5/2023,250.5,,1,,Mobile,,1
+CUST4577,,50,M,user388@example.com,,123 St,Los Angeles,NY,USA,90001,6/15/2020,,0,Active,1,English,,,3
+,Alice,25,Male,user31@example.com,9123456780,,,NY,US,10001,11/20/2019,,0,Cancelled,5,,Tablet,REF123,
+CUST4605,Jane Smith,40,M,user34@example.com,,,New York,,US,10001,1/1/2021,,,Cancelled,1,Spanish,Desktop,REF456,
+CUST6929,,,Other,user625@example.com,9988776655,789 Blvd,,NY,,60601,,12/1/2022,100,Cancelled,,Spanish,,,0
+CUST4031,Sam,50,M,user932@example.com,,,,CA,US,,11/20/2019,12/1/2022,250.5,Inactive,2,,,REF123,
+CUST2312,John Doe,35,Male,user354@example.com,,456 Ave,Chicago,,,60601,1/1/2021,,,,3,French,Desktop,REF123,2
+CUST6477,Alice,30,Female,user754@example.com,9876543210,789 Blvd,New York,NY,,10001,11/20/2019,,1000,Cancelled,1,Spanish,Tablet,,1
+CUST8337,,40,Female,,9876543210,,Los Angeles,IL,US,90001,6/15/2020,12/1/2022,0,,1,Spanish,Mobile,,
+CUST1476,,40,M,user716@example.com,9876543210,789 Blvd,,CA,,,6/15/2020,,,,5,English,,,
+CUST3249,Alice,45,,user863@example.com,9123456780,,New York,NY,,90001,1/1/2021,,1000,,3,French,Tablet,REF456,0
+CUST1844,Jane Smith,30,Female,user489@example.com,,123 St,Houston,NY,USA,10001,11/20/2019,,0,Cancelled,1,Spanish,Mobile,REF123,
+CUST6520,Alice,,,,,456 Ave,New York,CA,US,60601,,,100,,4,,,REF123,1
+CUST3198,Sam,,F,,,789 Blvd,Los Angeles,NY,US,,1/1/2021,,1000,Inactive,5,English,Mobile,,1
+CUST3206,John Doe,40,Other,,9988776655,789 Blvd,Houston,CA,US,,1/1/2021,,100,,4,,Mobile,,1
+CUST6263,,50,Other,user803@example.com,9123456780,456 Ave,Chicago,CA,,,,12/1/2022,250.5,Cancelled,1,,Desktop,REF123,2
+CUST3309,John Doe,45,Other,user571@example.com,,,,TX,,10001,11/20/2019,5/5/2023,100,Active,,Spanish,,,0
+CUST9538,,,M,user391@example.com,9876543210,456 Ave,New York,TX,,,1/1/2021,5/5/2023,100,Active,1,French,Tablet,,2
+CUST6499,John Doe,,M,user446@example.com,9988776655,,Chicago,TX,US,60601,1/1/2021,5/5/2023,1000,Inactive,1,,Mobile,,1
+CUST3058,John Doe,,Male,user199@example.com,9123456780,789 Blvd,Houston,,,60601,,12/1/2022,100,Active,3,French,Tablet,REF456,
+,,45,Female,,,789 Blvd,Los Angeles,NY,USA,,6/15/2020,,,Inactive,,Spanish,Tablet,REF123,2
+CUST8778,Jane Smith,25,Male,user93@example.com,,789 Blvd,Houston,,US,90001,1/1/2021,5/5/2023,0,,2,English,Mobile,REF123,
+CUST2993,Sam,,Female,user623@example.com,9988776655,456 Ave,,TX,,10001,,,,Inactive,3,English,Desktop,,1
+CUST2938,,35,,user149@example.com,9876543210,456 Ave,Houston,IL,US,,11/20/2019,12/1/2022,1000,Cancelled,5,English,Desktop,REF123,1
+CUST1939,John Doe,25,Male,user43@example.com,9123456780,,Chicago,NY,USA,,11/20/2019,,1000,,4,,Mobile,REF456,
+CUST2538,,30,Female,user955@example.com,9123456780,,Chicago,NY,,,6/15/2020,,,,,,Tablet,,
+CUST6661,Jane Smith,50,M,user3@example.com,9988776655,,,,USA,,6/15/2020,,,Cancelled,1,French,Tablet,REF123,
+CUST8448,Jane Smith,25,Other,user639@example.com,,123 St,Houston,TX,US,90001,1/1/2021,,250.5,Cancelled,2,English,Tablet,,
+CUST7136,Jane Smith,35,Female,user732@example.com,9988776655,456 Ave,New York,CA,US,,11/20/2019,,0,Inactive,,English,Desktop,REF456,3
+CUST5358,Sam,45,M,user544@example.com,9123456780,789 Blvd,,CA,,90001,6/15/2020,,,Active,5,,Mobile,REF456,2
+CUST5481,Jane Smith,45,F,,,456 Ave,New York,TX,,,,5/5/2023,250.5,Active,,,,REF456,
+CUST2238,Sam,30,Female,user423@example.com,,789 Blvd,New York,TX,US,,11/20/2019,,,,4,,,REF123,1
+CUST7796,Sam,,Male,user443@example.com,,,,IL,USA,10001,11/20/2019,5/5/2023,1000,,2,French,Mobile,REF123,
+CUST7248,,50,Male,user454@example.com,9988776655,,Chicago,NY,,,11/20/2019,,250.5,,3,French,Tablet,,
+CUST9489,Jane Smith,,Male,user771@example.com,9123456780,,,TX,,60601,11/20/2019,5/5/2023,0,,3,,,,
+CUST4315,,35,F,user839@example.com,,789 Blvd,Chicago,IL,,90001,,,,Cancelled,2,English,Desktop,,
+CUST1268,Jane Smith,40,Male,user967@example.com,,,,TX,,90001,11/20/2019,,0,,5,Spanish,Desktop,,3
+CUST1011,Sam,35,Male,user797@example.com,9988776655,,New York,NY,,60601,,12/1/2022,250.5,,1,,Mobile,REF456,2
+CUST1659,John Doe,25,Male,,9876543210,456 Ave,Chicago,,USA,10001,,,250.5,Inactive,5,English,Tablet,,0
+CUST5438,Sam,40,F,user319@example.com,9876543210,,Los Angeles,NY,,,1/1/2021,12/1/2022,1000,,2,,Desktop,,1
+CUST2109,Jane Smith,,,,9988776655,789 Blvd,Houston,TX,USA,,,,0,Active,3,French,Desktop,,
+CUST9304,,25,Male,user970@example.com,,789 Blvd,Houston,IL,USA,,11/20/2019,,1000,,1,,Tablet,,3
+CUST6388,Jane Smith,35,Female,,,456 Ave,New York,CA,,,6/15/2020,,250.5,,4,Spanish,,REF123,
+CUST5726,Sam,40,Male,,9876543210,123 St,,TX,USA,,6/15/2020,5/5/2023,100,Active,,Spanish,,REF123,0
+CUST5170,,45,,user407@example.com,9988776655,,New York,TX,,,,5/5/2023,,,3,Spanish,,REF456,
+CUST5140,John Doe,,,user447@example.com,9988776655,123 St,New York,TX,US,60601,6/15/2020,12/1/2022,0,,3,French,,,
+CUST4245,,30,F,user299@example.com,9123456780,,Houston,,,,,,100,Inactive,5,English,Tablet,,2
+CUST8724,Jane Smith,50,Female,,9123456780,,Los Angeles,TX,,,6/15/2020,12/1/2022,100,,3,Spanish,,,
+CUST3320,Sam,25,Male,user541@example.com,9988776655,456 Ave,Chicago,IL,US,10001,6/15/2020,,100,,4,,,,
+CUST1485,,45,Other,user668@example.com,9988776655,,,,,,1/1/2021,5/5/2023,250.5,,5,French,Tablet,REF456,3
+CUST3951,Jane Smith,45,Male,user779@example.com,9123456780,456 Ave,New York,,USA,10001,1/1/2021,12/1/2022,250.5,Cancelled,2,English,Desktop,,2
+CUST1574,,50,Other,user550@example.com,,456 Ave,Chicago,IL,USA,,6/15/2020,,,Inactive,2,English,Tablet,,
+CUST5316,,50,Female,user969@example.com,9876543210,,Los Angeles,,US,10001,1/1/2021,,0,,4,,Tablet,REF123,2
+CUST1268,Sam,30,Male,user274@example.com,9876543210,,Houston,IL,,,1/1/2021,12/1/2022,100,,,Spanish,,,3
+CUST4182,,35,Female,user781@example.com,9123456780,,Los Angeles,,USA,,6/15/2020,,1000,Inactive,,French,Tablet,REF123,
+CUST9853,,45,Male,user144@example.com,,,Los Angeles,NY,,,6/15/2020,,1000,Active,2,French,,REF123,1
+CUST2027,Sam,25,,user537@example.com,,789 Blvd,Houston,IL,,,1/1/2021,12/1/2022,100,Inactive,1,Spanish,,,0
+CUST3395,Jane Smith,,Female,user909@example.com,,789 Blvd,New York,,,60601,1/1/2021,,250.5,Active,1,Spanish,,,
+CUST6975,Sam,40,Male,,9123456780,456 Ave,Houston,CA,,90001,1/1/2021,,0,,4,Spanish,,,0
+CUST9293,,,Other,user687@example.com,9876543210,789 Blvd,Chicago,NY,USA,10001,,12/1/2022,0,Cancelled,2,Spanish,Desktop,REF123,
